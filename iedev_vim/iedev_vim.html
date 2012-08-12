@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+
+<!--
+  Google HTML5 slide template
+
+  Authors: Luke Mahé (code)
+           Marcin Wichary (code and design)
+           
+           Dominic Mazzoni (browser compatibility)
+           Charles Chen (ChromeVox support)
+
+  URL: http://code.google.com/p/html5slides/
+-->
+
+<html>
+	<head>
+		<title>iedev - Vim勉強会</title>
+
+		<meta charset='utf-8'>
+		<script src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
+	</head>
+
+	<style>
+		/* Your individual styles here, or just use inline styles if that’s
+		what you want. */
+	</style>
+
+	<body style='display: none'>
+
+		<section class='slides layout-regular template-concurrency'>
+
+			<!-- Your slides (<article>s) go here. Delete or comment out the
+				slides below. -->
+
+
+			<article>
+				<h1>Vimのカスタマイズ</h1>
+				<h2>
+				あっとん<br>
+				2012/08/13
+				</h2>
+			</article>
+
+			<article>
+				<h3>あじぇんだ</h3>
+				<ul>
+					<li> Vimの超重要コマンド
+					<li> Vimの使い方
+					<li> Vimのカスタマイズ
+					<li> ref.vim + webdict で対英語環境
+					<li> まとめ
+				</ul>
+			</article>
+
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<h1> :help </h1>
+			</article>
+
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<h1> :help の使い方？</h1>
+			</article>
+
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<h1> :help にのってる。</h1>
+			</article>
+
+			<article>
+				<h3> Vimの超重要コマンド</h3>
+					<p> Vimはヘルプが充実してるので、:helpを使うと捗ります。 </p>
+					<ul>
+						<li> :help するとヘルプが見られます
+						<li> :help の短縮は :h
+						<li> |hoge|みたいに'|'で囲まれた所にカーソルをあわせて
+						^]するとそのキーワードの解説に飛べます<br>
+						<ul>
+							<li> 飛んだ元に戻るのは ^o とか
+						</ul>
+					</ul>
+					<br><br><br>
+					<p>
+					^ は control-key です。なので^oは ctrl-o です。
+					Vimの中だと&lt;c-o&gt;みたいに表記することもあります。
+					</p>
+			</article>
+
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<p> :help の使い方 </p>
+
+					<ul>
+						<li> :help &lt;keyword&gt; が基本
+						<ul>
+							<li> :help autoindent
+						</ul>
+
+						<br>
+
+						<li> キーマップ(どのキーにどの機能があるか)も調べられる
+						<ul>
+							<li> :help ^f   
+							<ul><li> (ノーマルモード の ctrl-f) </li></ul>
+							<li> :help i_^n 
+							<ul><li> (インサートモード の ctrl-n) </li></ul>
+							<li> :help c_^p 
+							<ul><li> (コマンドラインモードの ctrl-p) </li></ul>
+						</ul>
+					</li>
+			</article>
+					
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<h1> :help の使い方の詳細？</h1>
+			</article>
+
+			<article>
+					<h3> Vimの超重要コマンド</h3>
+					<h1> :help にのってる。</h1>
+			</article>
+
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h5> Vimはカスタマイズすることのできるエディタです。</h5>
+					<ul>
+						<li> 各種設定
+						<ul><li> 非常に多くの設定項目があります</li></ul>
+						<li> マッピング
+						<ul><li> キーの割り当ての変更</li></ul>
+						<li> コマンドの追加
+						<ul><li> 自分でコマンドを作れます</li></ul>
+						<li> プラグイン
+						<ul><li> 有志が作成した機能をプラグインとして取り込めます</li></ul>
+						<li> etc
+						<ul><li> VimScript による自分での拡張などなど<br>(プラグインはVimScriptで書かれてます。)</li></ul>
+					</ul>
+			</article>
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h4> Vimの使い方には大きく2パターン。</h4>
+				<ul>
+					<li> スパルタン派
+					<li> カスタマイズ派
+				</ul>
+			</article>
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h4> スパルタン派 </h4>
+				<p> 一言で言えば 「素のVim使い」 </p>
+				<ul>
+					<li> なるべくシンプルに、素のVimを使う派
+					<li> どんな環境にもすぐ対応できる
+					<li> Vim(もしくはvi)はLinuxには基本的に入っているので、<br>
+						 サーバですぐに作業ができる
+				</ul>
+				<br>
+				<p> 読み物 : <a href="http://www.kaoriya.net/blog/2012/01/19">スパルタンVim</a></p>
+			</article>
+			
+			<article>
+				<h3> Vimの使い方</h3>
+				<h4> カスタマイズ派 </h4>
+				<p> 一言で言えば「自分用Vim使い」
+				<ul>
+					<li> 作業効率を求めてVimをカスタマイズする派
+					<li> いろんなことがVimでできるようになる
+					<li> 文字通り自分用のVimにできる
+				</ul>
+				<br>
+				<p> 読み物 : <a href="http://www.amazon.co.jp/Vimテクニックバイブル-～作業効率をカイゼンする150の技-Vimサポーターズ/dp/4774147958">Vimテクニックバイブル</a></p>
+			</article>
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h1> で、どっちが良いのさ？</h1>
+			</article>
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h1> 人による。</h1>
+			</article>
+
+			<article>
+				<h3> Vimの使い方</h3>
+				<h1> 結論 : 自分のやりやすい方で</h1>
+			</article>
+
+
+			<article>
+				<h3> Vimのカスタマイズ</h3>
+				<h1> どんなプラグインがある？</h1>
+			</article>
+
+			<article>
+				<h3> Vimのカスタマイズ</h3>
+				<h4> 私が使ってるプラグインとか</h4>
+				<ul>
+					<li> vunlde : プラグイン管理
+					<li> neocomplcache : 補完
+					<li> neocomplceche-snippets-complete : スニペット
+					<li> vimshell : Vimで動くシェル
+					<li> ref.vim : リファレンス
+					<li> gundo.vim : undo-treeを簡単に使う
+					<li> surrond.vim : テキストオブジェクトの拡張
+					<li> などなど
+				</ul>
+				<p> 私の<a href="https://github.com/atton-/dot_files/blob/master/.vimrc">.vimrc</a></p>
+			</article>
+
+			<!-- 今のところここまで --!>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h1> Vimで辞書を引けるように</h1>
+			</article>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h1> 便利なの？</h1>
+			</article>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h1> 入れてみましょう。</h1>
+			</article>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h4> 必要なもの</h4>
+				<ul>
+					<li> git
+					<li> w3m
+				</ul>
+				<br>
+				<p> 2つともepkgにあります。</p>
+				<p> brewにもあります。</p>
+			</article>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h4> インストール方法</h4>
+				<p> インストールスクリプト作ったので<br>以下のコマンドを実行してください</p>
+				<ul>
+					<li> git clone git://gist.github.com/3330608.git gist
+					<li> sh gist/ref_install.sh
+					<li> rm -rf gist
+				</ul>
+				<br>
+				<p> エラーが出たら言ってください</p>
+			</article>
+
+			<article>
+				<h3> ref.vim + webdict で対英語環境</h3>
+				<h4> ref.vim の使い方</h4>
+				<ul>
+					<li> :Ref webdict &lt;word&gt;
+					<li> txtファイル編集中にカーソルを単語に合わせてK
+					<li> ^v で単語を選択してK
+				</ul>
+			</article>
+
+
+			<article>
+				<h3> まとめ</h3>
+				<h4> :help を使いましょう</h4>
+				<h4> 自分流にVimを使いこなしましょう</h4>
+				<h4> えーごはかどる？</h4>
+			</article>
+
+
+			<article>
+				<h1> have a nice vim life!</h1>
+			</article>
+
+	</body>
+</html>
