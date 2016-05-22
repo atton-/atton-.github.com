@@ -1,0 +1,130 @@
+body {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+a:link,
+a:visited {
+  color: #000000;
+}
+.slide {
+  color: #000000;
+}
+.slide h1 {
+  font-size: 200%;
+  color: black;
+  text-align: center;
+}
+.slide h1.fullscreen {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+.slide h1.hidden {
+  display: none;
+}
+.slide hX {
+  font-size: 250%;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.slide hX.fullscreen {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+.slide hX.hidden {
+  display: none;
+}
+.slide h2 {
+  font-size: 220%;
+  background-color: #808db5;
+  color: white;
+  padding: 5px;
+}
+.slide h3 {
+  font-size: 180%;
+}
+.slide name {
+  font-size: 180%;
+  background-color: #ffcc00;
+}
+.slide name.fullscreen {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+.slide .stepcurrent {
+  color: #dd0000;
+}
+.slide .step {
+  color: #c0c0c0;
+}
+div.highlight {
+  background-color: #ffffa9;
+  display: inline-block;
+  _display: inline;
+}
+div > ul {
+  list-style-type: square;
+  font-size: 160%;
+}
+div > ol {
+  font-size: 160%;
+}
+li {
+  margin-bottom: 15px;
+}
+p,
+dt,
+dd,
+td {
+  font-size: 150%;
+}
+th {
+  font-size: 90%;
+}
+p.emphasize {
+  font-size: 180%;
+}
+pre {
+  font-size: 100%;
+}
+.code {
+  background-color: #ffffa9;
+  padding: 5px;
+}
+.small_code {
+  font-size: 90%;
+  padding: 2px;
+}
+.smaller_code {
+  font-size: 80%;
+  padding: 2px;
+}
+code {
+  font-size: 100%;
+  background-color: #ffffa9;
+  padding: 5px;
+}
+.footnote a:first-of-type {
+  text-decoration: none;
+}
+p.footnote {
+  font-size: 88%;
+}
+.help p,
+.help td {
+  font-size: 88%;
+}
+/********
+ * example gradient background using css3
+ */
+.slide {
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff, #ffffff, #ffffff);
+}
+.slide.cover,
+.slide.title {
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff, #ffffff, #ffffff);
+}
