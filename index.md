@@ -2,6 +2,7 @@
 
 # Slides
 * 2016/05/16 : akatsuki読み [スライド](slides/akatsuki-reading/slide.html)
+* 2015/04/25 : [新入生歓迎LT大会 2015](https://a2abe3fb399b60bc8c18fbfcd3.doorkeeper.jp/events/23373) [スライド(pdf)](slides/ie-lt-2015/ie-lt-2015.pdf)
 * 2015/02/22 : [ギークハウス沖縄解散パーティLT](https://atnd.org/events/61450) [スライド](slides/geeoki_last/geeoki.html)
 * 2014/08/23 : [Vim勉強会2014](https://atnd.org/events/55445) [スライド](slides/ie-vim-2014/slide.html)
 * 2014/05/24 : [オープンソースカンファレンス 2014 Okinawa](http://www.ospn.jp/osc2014-okinawa/) [スライド](slides/osc2014/slide.html)
