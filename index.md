@@ -1,7 +1,12 @@
 <title>atton-.github.com</title>
 
-# Self Introduction
+# Accounts
+* Twitter: [@_atton](https://twitter.com/_atton)
+* GitHub:  [atton-](https://github.com/atton-)
+* Blog: [atton.blog](https://attonblog.blogspot.jp/)
+* Book meter: [atton](https://bookmeter.com/users/764422)
 
+# Self Introduction
 ## Job
 * Engineer
 
@@ -51,9 +56,3 @@
 * 2013/08/10 : [xhago4](http://hago.doorkeeper.jp/events/4396) [スライド](slides/xhago4/xhago4.html)
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
-
-# Accounts
-Twitter: [@_atton](https://twitter.com/_atton)
-GitHub:  [atton-](https://github.com/atton-)
-Blog: [atton.blog](https://attonblog.blogspot.jp/)
-Book meter: [atton](https://bookmeter.com/users/764422)
