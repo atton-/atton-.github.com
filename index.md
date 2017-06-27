@@ -15,7 +15,7 @@
 * Ruby
     * A most writable language(2012~).
     * Develop web application using Rails 4 as part time job(2 year).
-    * Maintain private cloud system of department of university
+    * Maintain private cloud system of department of university.
         * Named "Akatsuki"
         * Rails 4, about 3k line with rspec
         * Main development period: 3 month
@@ -24,10 +24,10 @@
 * Haskell, Agda
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, Scala,
+* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, ...
     * Tutorial level or tutorial + alpha level.
 
-## Tools which I usually use.
+## Tools which I usually use
 * macOS
 * Linux(usually CentOS)
 * Vim
