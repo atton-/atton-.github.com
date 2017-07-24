@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title></title>
+   
+   
+
+<style>
+html, body { margin: 0; padding: 0; }
+
+body { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; }
+
+a:link, a:visited { color: black; }
+
+h1 { font-size: 30pt;  }
+h2 { font-size: 28pt;  }
+h3 { font-size: 25pt;  }
+p, li, dt, dd, td, th { font-size: 18pt; }
+
+pre { font-size: 14pt;  }
+pre.small { font-size: 11pt; }
+
+pre.code {
+        background-color: azure;
+        padding: 5px;
+      }
+     
+ul { list-style-type: square; }    
+   
+.center { text-align: center; }   
+     
+.slide { page-break-after: always;
+         min-height: 100mm;
+         padding: 40px;
+         
+         border: 1px dotted black;
+
+/*      
+  background: -moz-linear-gradient( top, maroon, red);
+*/
+       }
+
+
+
+/*
+for princexml (CSS3 paged media support)
+@page { size: A4 landscape }
+*/
+</style>
+
+</head>
+<body>
+
+<div class="presentation">
+
+<div class='slide '>
+
+<!-- _S9SLIDE_ -->
+<h1 id="今回の発表の目的">今回の発表の目的</h1>
+<ul>
+  <li>Laravel の紹介</li>
+  <li>MVC Web Framework 触ったことありますアピール</li>
+  <li>インフラもそこそこ触れますアピール</li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="laravel-とは">Laravel とは</h1>
+<ul>
+  <li>PHP の Web フレームワーク</li>
+  <li>MVC のフルスタック
+    <ul>
+      <li>Model: Eloquent ORM</li>
+      <li>View: *.blade.php</li>
+      <li>Controller: ? (DI とか可能らしい)</li>
+    </ul>
+  </li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="quickstart-51">QuickStart 5.1</h1>
+<ul>
+  <li>Laravel 公式の QuickStart
+    <ul>
+      <li><a href="https://laravel.com/docs/5.1/quickstart">Basic Task List</a></li>
+    </ul>
+  </li>
+  <li>いわゆる TODO List
+    <ul>
+      <li>タスクに名前がある</li>
+      <li>タスクを追加できる</li>
+      <li>タスクが終わったら消せる</li>
+    </ul>
+  </li>
+  <li>CRUD の CRD だけできるやつを<a href="https://github.com/atton-/laravel-quickstart">作りました</a>
+    <ul>
+      <li>デモンストレーション</li>
+    </ul>
+  </li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="routing">Routing</h1>
+<ul>
+  <li>URL PATH + callback anonymous function
+    <ul>
+      <li><code>routes/web.php</code> とか
+        <ul>
+          <li>`Route::get(‘/’, function() { return view(‘tasks’)})</li>
+        </ul>
+      </li>
+      <li><code>routes/api.php</code> とか</li>
+      <li><code>routes/console.php</code> とか</li>
+    </ul>
+  </li>
+  <li>割とモダン。 webと api とで routes が分かれている</li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="model">Model</h1>
+<ul>
+  <li>Eloquent OR-Mapper</li>
+  <li>割と普通。特定の class を extends すると attributes が生える</li>
+</ul>
+
+<pre><code>class Task extends Model
+{
+    //
+}
+</code></pre>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="view">View</h1>
+<ul>
+  <li>blade.php</li>
+  <li>基本的には html</li>
+  <li><code>@if</code> とか <code>@foreach</code> とか書く部分だけが特殊(blade)</li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="migration">Migration</h1>
+<ul>
+  <li>日付付きで名前管理</li>
+  <li>up/down を定義</li>
+  <li>全体の schema file は無い(rails でいう schema.rb)</li>
+  <li>php artisan migration で migration が走る</li>
+</ul>
+
+<pre><code>class CreateTasksTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tasks', function (Blueprint $table) {
+            $table-&gt;increments('id');
+            $table-&gt;string('name');
+            $table-&gt;timestamps();
+        });
+    }
+</code></pre>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="env">.env</h1>
+<ul>
+  <li>環境変数の管理機構も用意されている</li>
+  <li>default で redis 対応っぽい?</li>
+  <li>.gitignore とかももちろん生成される
+    <ul>
+      <li>便利</li>
+    </ul>
+  </li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="package-manager">package manager</h1>
+<ul>
+  <li>php の package manager は composer 推奨</li>
+  <li>module とかもこいつで入れるみたい</li>
+  <li>特に感想は無し。 install で package 入りますね、というくらい
+    <ul>
+      <li>Gemfile.lock みたいなのも生成するので composer 一本で package 管理はOKそう</li>
+    </ul>
+  </li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="51-と-54-の違いは">5.1 と 5.4 の違いは?</h1>
+<ul>
+  <li>Routing の部分のみ
+    <ul>
+      <li>5.1 では web/api/channel.php に分かれていない</li>
+      <li>resouces/Http/routes.php に書く必要があった</li>
+      <li>その部分をまるまる web.php に持ってくると動きました</li>
+    </ul>
+  </li>
+  <li>とりあえずリポジトリは<a href="https://github.com/atton-/laravel-quickstart">ここ</a>。</li>
+</ul>
+
+
+</div>
+<div class='slide '>
+<!-- _S9SLIDE_ -->
+<h1 id="php-書いててどう思う">PHP 書いててどう思う?</h1>
+<ul>
+  <li>パーフェクトPHPは罠っぽいのが大量にあってつらそうだった
+    <ul>
+      <li>配列は全て連想配列である</li>
+      <li>名前空間が \ 区切り</li>
+    </ul>
+  </li>
+  <li>Laravel は割とモダンというか踏み抜いたことは無い
+    <ul>
+      <li>一番時間かけたのは Apache の config かも?</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- vim: set filetype=markdown.slide: -->
+</div>
+
+
+  </div> <!-- presentation -->
+</body>
+</html> 
+

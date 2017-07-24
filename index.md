@@ -47,6 +47,7 @@
 
 
 # Slides
+* 2017/07/24 : Laravel 紹介 [スライド](slides/laravel51/slide.html)
 * 2016/05/16 : akatsuki読み [スライド](slides/akatsuki-reading/slide.html)
 * 2016/09/30 : 新学科システム説明会(ユーザコンソール部分) [スライド](slides/syskan-new-system-presentation/slide.html)
 * 2015/04/25 : [新入生歓迎LT大会 2015](https://a2abe3fb399b60bc8c18fbfcd3.doorkeeper.jp/events/23373) [スライド(pdf)](slides/ie-lt-2015/ie-lt-2015.pdf)
