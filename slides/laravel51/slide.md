@@ -99,5 +99,6 @@ class CreateTasksTable extends Migration
     * 名前空間が \ 区切り
 * Laravel は割とモダンというか踏み抜いたことは無い
     * 一番時間かけたのは Apache の config かも?
+* あとは[ブログ](https://attonblog.blogspot.jp/2017/07/laravel-51-quickstart-using-laravel-54.html)にまとめてあります。
 
 <!-- vim: set filetype=markdown.slide: -->
