@@ -21,20 +21,23 @@
         * Main development period: 3 month.
         * Maintain period: 18 month.
         * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html)
-* Haskell, Agda
+* Haskell, Agda(2013~)
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, ...
+* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, PHP, ...
     * Tutorial level or tutorial + alpha level.
 
 ## Tools which I usually use
 * macOS
-* Linux(usually CentOS)
-* Vim
+* Linux
+    * usually RHEL(CentOS, ScientificLinux, Fedora)
+* NeoVim
+    * Vim
 * Git
     * can rebase, read reflog, can reset --hard, can bisect, ...
 * tmux
     * use for multiple windows/panels in local.
+    * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
 
 ## Hobby
