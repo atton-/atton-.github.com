@@ -45,7 +45,7 @@
 * Docker
 
 ## Hobby
-* Reading
+* Reading books
     * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋 縋 ...
 * Programming
 * Play game
