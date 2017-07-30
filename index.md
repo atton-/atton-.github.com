@@ -9,7 +9,11 @@
 # Self Introduction
 
 ## Job
-* Engineer
+* Freelance Engineer
+
+
+## Job History
+* DWANGO (2017/04~)
 
 ## Programming Experience
 * Ruby
