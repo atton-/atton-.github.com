@@ -13,7 +13,8 @@
 
 
 ## Job History
-* DWANGO (2017/04~)
+* DWANGO (2017/04~2017/07)
+* Freelance (2017/08~)
 
 ## Programming Experience
 * Ruby
@@ -24,7 +25,7 @@
         * Rails 4, about 3k lines with rspec.
         * Main development period: 3 month.
         * Maintain period: 18 month.
-        * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html)
+        * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
 * Haskell, Agda(2013~)
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
