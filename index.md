@@ -8,6 +8,7 @@
 * GitHub:  [atton-](https://github.com/atton-)
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
 * Book meter: [atton](https://bookmeter.com/users/764422)
+* Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * VALU: [atton](https://valu.is/atton)
 
 # Self Introduction
