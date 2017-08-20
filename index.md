@@ -39,6 +39,7 @@
 ## Job History
 * DWANGO (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
+    * Project using Rails5(2017/08~)
 
 ## Programming Experience
 * Ruby
