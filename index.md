@@ -15,6 +15,8 @@
 
 ## Job
 * Freelance Engineer
+    * Main: Web background
+    * Sub: Infrastructure Web frontend
 
 ## 料金
 * Web Application(フルスクラッチ) 1,500,000円~
@@ -41,7 +43,7 @@
 * Freelance Engineer (2017/08~)
     * Project using Rails5(2017/08~)
 
-## Programming Experience
+## Programming Experiences
 * Ruby
     * A most writable language(2012~).
     * Develop web application using Rails 4 as part time job(2 year).
@@ -56,6 +58,12 @@
     * I wrote a thesis using Haskell and Agda.
 * Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, PHP, ...
     * Tutorial level or tutorial + alpha level.
+
+## Infrastructure Experiences(Sub skills)
+* L1,L2,L3knowledge: cisco(CCENT Level) 2008~
+* Cloud services: sakura, heroku, AWS(EC2, S3)
+* LDAP, BIND9, RADIUS, DHCP, libvirt
+    * tutorial level + alpha
 
 ## Tools which I usually use
 * macOS
