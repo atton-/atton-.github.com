@@ -16,7 +16,7 @@
 ## Job
 * Freelance Engineer
     * Main: Web background
-    * Sub: Infrastructure Web frontend
+    * Sub: Infrastructure, Web frontend
 
 ## 料金
 * Web Application(フルスクラッチ) 1,500,000円~
