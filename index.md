@@ -101,3 +101,13 @@
 * 2013/08/10 : [xhago4](http://hago.doorkeeper.jp/events/4396) [スライド](slides/xhago4/xhago4.html)
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
+
+# OSS Contributions
+* [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
+    * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
+* [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs)
+    * Support `<C-[>, <C-]>, <C-^>, <C-\\>, <C-_>, <C-->` in Mac [#53](https://github.com/vimperator/vimperator-labs/pull/53) (merged)
+* [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify)
+    * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
+* [thinca/vim-ref](https://github.com/thinca/vim-ref)
+    * webdict ソースに start_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
