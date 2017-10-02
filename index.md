@@ -42,7 +42,10 @@
 ## Job History
 * DWANGO (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
-    * Project using Rails5.1 + Elm 0.18.0 (2017/08~)
+    * Project using Rails5.1
+        * Main Development Period: 2017/08~2017/09
+        * About 3k lines
+        * Maintain Period: 2017/10~
 
 ## Programming Experiences
 * Ruby(2012~)
