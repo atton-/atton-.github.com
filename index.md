@@ -131,6 +131,7 @@
 * [utf8proc](https://github.com/atton/utf8proc)
 * [xv6](https://github.com/atton/xv6)
 * [zsh-notify](https://github.com/atton/zsh-notify)
+* [fog-libvirt](https://github.com/atton/fog-libvirt)
 
 ## Original Project
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
