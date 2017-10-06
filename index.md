@@ -85,6 +85,7 @@
     * use for multiple windows/panels in local.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
+* [dot files](https://github.com/atton/dot_files)
 
 ## Hobby
 * Reading books
@@ -109,7 +110,11 @@
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
 
+
 # OSS Contributions
+
+## Pull Requests
+
 * [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
     * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
 * [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs)
@@ -118,3 +123,15 @@
     * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
 * [thinca/vim-ref](https://github.com/thinca/vim-ref)
     * webdict ソースに start_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
+
+
+## Customize for me
+* [a.vim](https://github.com/atton/a.vim)
+* [homebrew-customs](https://github.com/atton/homebrew-customs)
+* [utf8proc](https://github.com/atton/utf8proc)
+* [xv6](https://github.com/atton/xv6)
+* [zsh-notify](https://github.com/atton/zsh-notify)
+
+## Original Project
+* [hdd-keeper](https://github.com/atton/hdd-keeper)
+* [noir](https://github.com/atton/noir)
