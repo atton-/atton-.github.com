@@ -21,17 +21,17 @@
 ## 料金
 * Web Application(フルスクラッチ) 1,500,000円~
     * 前報酬35%, 成功報酬65%
-* Web Application(機能追加, 保守) 300,000円~
+* Web Application(機能追加, 保守) 450,000円~
     * 相談料金10%, 前報酬35%, 成功報酬55%
 * Smartphone Application (フルスクラッチ) 1,500,000円~
     * 前報酬35%, 成功報酬 65%
     * 納期に長めの時間を要求することがあります。
-* Smartphone Application(機能追加, 保守) 300,000円~
+* Smartphone Application(機能追加, 保守) 450,000円~
     * 相談料金10%, 前報酬35%, 成功報酬55%
     * 納期に長めの時間を要求することがあります。
-* サーバ環境構築,メンテナンス,保守など 500,000円~
+* サーバ環境構築,メンテナンス,保守など 750,000円~
     * 相談料金10%, 前報酬35%, 成功報酬55%
-* オフラインミーティング(会議室など): 30,000円~
+* オフラインミーティング(会議室など): 50,000円~
 * オンラインミーティング(Skype など): 0円~
 
 * 基本的に時給換算でなく、納品形式でお願いします。
@@ -57,6 +57,7 @@
         * Main development period: 3 month.
         * Maintain period: 18 month.
         * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
+        * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html).
     * Original gem ["noir"](https://github.com/atton/noir)
         * Utilitiy commands for myself.
 * Elm(2017~)
