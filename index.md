@@ -44,7 +44,7 @@
 * Freelance Engineer (2017/08~)
     * Project using Rails5.1
         * Main Development Period: 2017/08~2017/09
-        * About 3k lines
+        * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
         * Maintain Period: 2017/10~
 
 ## Programming Experiences
