@@ -134,6 +134,7 @@
 * [zsh-notify](https://github.com/atton/zsh-notify)
 * [fog-libvirt](https://github.com/atton/fog-libvirt)
 
-## Original Project
+## Original Project or Main contribution
+* [Akatsuki](https://github.com/atton/akatsuki)
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
 * [noir](https://github.com/atton/noir)
