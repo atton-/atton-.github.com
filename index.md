@@ -52,13 +52,15 @@
     * A most writable language.
     * Develop web application using Rails 4 as part time job(2 year).
     * Maintain private cloud system of department of university.
-        * Named ["Akatsuki"](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html)
+        * Named ["Akatsuki"](https://github.com/atton/akatsuki)
+
         * Rails 4, about 3k lines with rspec.
         * Main development period: 3 month.
         * Maintain period: 18 month.
         * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
         * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
         * Akatsuki controls IP/VM for 500+ students.
+        * Related blog bosts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
     * Original gem ["noir"](https://github.com/atton/noir)
         * Utilitiy commands for myself.
 * Elm(2017~)
