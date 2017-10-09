@@ -119,6 +119,8 @@
 
 ## Pull Requests
 
+* [fog/fog-libvirt](https://github.com/fog/fog-libvirt)
+    * Volume#clone_volume supports different pools [#46](https://github.com/fog/fog-libvirt/pull/46)
 * [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
     * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
 * [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs)
