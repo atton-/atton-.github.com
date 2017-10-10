@@ -133,13 +133,14 @@
 
 ## Customize for me
 * [a.vim](https://github.com/atton/a.vim)
-* [homebrew-customs](https://github.com/atton/homebrew-customs)
 * [utf8proc](https://github.com/atton/utf8proc)
 * [xv6](https://github.com/atton/xv6)
 * [zsh-notify](https://github.com/atton/zsh-notify)
 * [fog-libvirt](https://github.com/atton/fog-libvirt)
+* [tmux](https://github.com/atton/tmux)
 
 ## Original Project or Main contribution
 * [Akatsuki](https://github.com/atton/akatsuki)
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
+* [homebrew-customs](https://github.com/atton/homebrew-customs)
 * [noir](https://github.com/atton/noir)
