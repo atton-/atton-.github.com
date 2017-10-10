@@ -1,4 +1,4 @@
-<title>atton-.github.com</title>
+<title>atton.github.com</title>
 
 <img src="business_card.png" alt="めいし" width="300px">
 
