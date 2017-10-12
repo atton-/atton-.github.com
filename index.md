@@ -144,3 +144,6 @@
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
 * [noir](https://github.com/atton/noir)
+
+## Donate BTC
+- Address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
