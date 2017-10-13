@@ -44,6 +44,7 @@
     * Project using Rails 5.1
         * Main Development Period: 2017/08~2017/09
         * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
+        * I implemented all features(Our team has only one engineer(me)).
         * Maintain Period: 2017/10~
 
 ## Programming Experiences
