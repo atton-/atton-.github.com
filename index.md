@@ -56,11 +56,10 @@
         * Details: bottom of this page
     * Original gem ["noir"](https://github.com/atton/noir)
         * Utilitiy commands for myself.
-* Elm(2017~)
 * Haskell, Agda(2013~)
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, PHP, ...
+* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, PHP, Elm, ...
     * Tutorial level or tutorial + alpha level.
 
 ## Infrastructure Experiences(Sub skills)
