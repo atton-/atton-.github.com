@@ -10,6 +10,7 @@
 * Book meter: [atton](https://bookmeter.com/users/764422)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * VALU: [atton](https://valu.is/atton)
+* bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 # Self Introduction
 
@@ -60,7 +61,7 @@
 * Haskell, Agda(2013~)
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, Scala, VHDL, scheme, go, PHP, Elm, ...
+* Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, go, PHP, Elm, ...
     * Tutorial level or tutorial + alpha level.
 
 ## Infrastructure Experiences(Sub skills)
@@ -145,6 +146,3 @@
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
 * [noir](https://github.com/atton/noir)
-
-## Donate BTC
-- Address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
