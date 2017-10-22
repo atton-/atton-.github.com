@@ -15,7 +15,7 @@
 * Skype: atton.
 * FGO: もみじ(565,422,721)
 * friends.nico: [atton](https://friends.nico/@atton)
-* pawoo: [atton](https://pawoo.net/@atton )
+* pawoo: [_atton](https://pawoo.net/@_atton )
 * bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 # Self Introduction
