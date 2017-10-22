@@ -11,6 +11,7 @@
 * Book meter: [atton](https://bookmeter.com/users/764422)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * VALU: [atton](https://valu.is/atton)
+* PSN: atton_34
 * bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 # Self Introduction
