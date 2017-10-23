@@ -60,7 +60,7 @@
 * Ruby(2012~)
     * A most writable language.
     * Develop web application using Rails 4 as part time job(2 year).
-    * Maintain private cloud system of department of university.
+    * Maintain private cloud system for department of university of ryukyus(ie-ryukyu).
         * Named ["Akatsuki"](https://github.com/atton/akatsuki)
         * Details: bottom of this page
     * Original gem ["noir"](https://github.com/atton/noir)
@@ -68,7 +68,7 @@
 * Haskell, Agda(2013~)
     * uses for my research in a university.
     * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, go, PHP, Elm, ...
+* Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, golang, PHP, Elm, Promela ...
     * Tutorial level or tutorial + alpha level.
 
 ## Infrastructure Experiences(Sub skills)
