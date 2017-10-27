@@ -27,13 +27,13 @@
 
 ## 料金
 * Web Application(フルスクラッチ) 1,500,000円~
-* Web Application(機能追加, 保守) 450,000円~
+* Web Application(機能追加, 保守) 500,000円~
 * Smartphone Application (フルスクラッチ) 1,500,000円~
     * 納期に長めの時間を要求することがあります。
-* Smartphone Application(機能追加, 保守) 450,000円~
+* Smartphone Application(機能追加, 保守) 500,000円~
     * 納期に長めの時間を要求することがあります。
 * サーバ環境構築,メンテナンス,保守など 750,000円~
-* オフラインミーティング(会議室など): 50,000円~
+* オフラインミーティング(会議室など): 75,000円~
 * オンラインミーティング(Skype など): 0円~
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
 
@@ -89,7 +89,7 @@
     * use for multiple windows/panels in local.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
-* [dot files](https://github.com/atton/dot_files)
+* my [dot files](https://github.com/atton/dot_files)
 
 ## Hobby
 * Reading books
