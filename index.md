@@ -100,6 +100,13 @@
 * Tea
 
 
+## LICENSES
+* IPA 初級システムアドミニストレータ(2009)
+* IPA 基本情報技術者(2009)
+* IPA 応用情報技術者(2009)
+* 普通自動車免許(2012)
+
+
 # Slides
 * 2017/07/24 : Laravel 紹介 [スライド](slides/laravel51/slide.html)
 * 2016/05/16 : akatsuki読み [スライド](slides/akatsuki-reading/slide.html)
