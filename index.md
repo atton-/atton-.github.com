@@ -126,6 +126,8 @@
 
 ## Pull Requests
 
+* [tmux/tmux](https://github.com/tmux/tmux)
+    * Fix East Asian Ambiguous (Unity half-width) [#1140](https://github.com/tmux/tmux/pull/1140)
 * [fog/fog-libvirt](https://github.com/fog/fog-libvirt)
     * Volume#clone_volume supports different pools [#46](https://github.com/fog/fog-libvirt/pull/46)
 * [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
