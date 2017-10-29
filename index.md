@@ -159,6 +159,12 @@
     * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
     * Akatsuki controls 1000+IP, 400+VM for 500+ users.
     * Related blog bosts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
+* [agda-proofs](https://github.com/atton/agda-proofs)
+* [delta_monad](https://github.com/atton/delta_monad)
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
 * [noir](https://github.com/atton/noir)
+* [similar_monad](https://github.com/atton/similar_monad)
+* [slideshow-cr](https://github.com/atton/slideshow-cr)
+* [slideshow-s6cr](https://github.com/atton/slideshow-s6cr)
+
