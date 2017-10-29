@@ -149,8 +149,9 @@
 * [fog-libvirt](https://github.com/atton/fog-libvirt)
 * [tmux](https://github.com/atton/tmux)
 
-## Original Project or Main contribution
+## Original Project or Contributions
 * [agda-proofs](https://github.com/atton/agda-proofs)
+    * my agda sandbox
 * [Akatsuki](https://github.com/atton/akatsuki)
     * Open-Sourced version.
     * private cloud system of department of university of ryukyus.
@@ -160,12 +161,23 @@
     * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
     * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
     * Akatsuki controls 1000+IP, 400+VM for 500+ users.
-    * Related blog bosts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
+    * Related blog posts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
+* [OfflineSuite](https://itunes.apple.com/jp/app/offlinesuite/id626097819)
+    * iOS Project in University
 * [delta_monad](https://github.com/atton/delta_monad)
+    * my thesis
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
+    * hdd keeper using 3D Printer
+* [heroes_and_daemons](https://github.com/atton/heroes_and_daemons)
+    * Battle Game for exercise in University
+    * using Unity 4
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
+    * collections of formulae for me
 * [noir](https://github.com/atton/noir)
+    * collections of utils for me(ruby gem)
 * [similar_monad](https://github.com/atton/similar_monad)
+    * base of my thesis(sandbox)
 * [slideshow-cr](https://github.com/atton/slideshow-cr)
+    * slideshow theme
 * [slideshow-s6cr](https://github.com/atton/slideshow-s6cr)
-
+    * slideshow theme(S6 version)
