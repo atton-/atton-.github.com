@@ -5,8 +5,7 @@
 ## 2017/11月以降、週3ほどの稼動を想定したお仕事を探しています。
 
 # Accounts
-* Twitter: [@_atton](https://twitter.com/_atton) 
-* Twitter Archive: [20171031](twitter-archive/index.html)
+* Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * GitHub:  [atton](https://github.com/atton)
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
 * Book meter: [atton](https://bookmeter.com/users/764422)
