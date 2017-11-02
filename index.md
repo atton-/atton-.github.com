@@ -2,7 +2,8 @@
 
 <img src="business_card.png" alt="めいし" width="300px">
 
-## 2017/11月以降、週3ほどの稼動を想定したお仕事を探しています。
+## 2017/12 から、週4ほどの稼動を想定したお仕事を探しています。
+* それ以下でも可
 
 # Accounts
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
@@ -55,7 +56,7 @@
         * Main Development Period: 2017/08~2017/09
         * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
         * I implemented all features(Our team has only one engineer(me)).
-        * Maintain Period: 2017/10~
+        * Maintain Period: 2017/10~11
 
 ## Programming Experiences
 * Ruby(2012~)
