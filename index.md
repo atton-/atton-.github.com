@@ -8,8 +8,9 @@
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * GitHub:  [atton](https://github.com/atton)
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
-* Book meter: [atton](https://bookmeter.com/users/764422)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
+* Book meter: [atton](https://bookmeter.com/users/764422)
+* amakan: [atton](https://amakan.net/@atton)
 * VALU: [atton](https://valu.is/atton)
 * PSN: atton_34
 * Skype: atton.
