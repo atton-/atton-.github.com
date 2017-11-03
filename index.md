@@ -1,4 +1,15 @@
 <title>atton.github.com</title>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109158638-1');
+</script>
+</head>
 
 <img src="business_card.png" alt="めいし" width="300px">
 
