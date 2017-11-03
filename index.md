@@ -4,7 +4,7 @@
 
 ## 2017/12 から、週4ほどの稼動を想定したお仕事を探しています。
 * それ以下の稼動でもOK
-* フルタイムで雇うのもOK
+* フルタイムでの雇用もOK
 
 # Accounts
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
