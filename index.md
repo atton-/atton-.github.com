@@ -149,6 +149,7 @@
     * Volume#clone_volume supports different pools [#46](https://github.com/fog/fog-libvirt/pull/46)
 * [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
     * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
+* [dwango/scala_text](https://github.com/dwango/scala_text) [#275](https://github.com/dwango/scala_text/pull/275) (merged)
 * [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs)
     * Support `<C-[>, <C-]>, <C-^>, <C-\\>, <C-_>, <C-->` in Mac [#53](https://github.com/vimperator/vimperator-labs/pull/53) (merged)
 * [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify)
