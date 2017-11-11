@@ -1,16 +1,16 @@
-<title>atton.github.com</title>
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  gtag('config', 'UA-109158638-1');
-</script>
+      gtag('config', 'UA-109158638-1');
+    </script>
 </head>
 
+<title>atton.github.com</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
 ## 2017/12 から、週4ほどの稼動を想定したお仕事を探しています。
@@ -27,6 +27,7 @@
 * VALU: [atton](https://valu.is/atton)
 * PSN: atton_34
 * Skype: atton.
+* Animetick: [_atton](http://animetick.net/users/_atton)
 * FGO: もみじ(565,422,721)
 * friends.nico: [atton](https://friends.nico/@atton)
 * pawoo: [_atton](https://pawoo.net/@_atton )
