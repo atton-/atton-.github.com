@@ -31,6 +31,8 @@
 * friends.nico: [atton](https://friends.nico/@atton)
 * pawoo: [_atton](https://pawoo.net/@_atton )
 * mstdn.jp: [atton](https://mstdn.jp/@atton )
+* Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton)
+* AtCoder: [atton](http://atcoder.jp/user/atton)
 * bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 # Self Introduction
