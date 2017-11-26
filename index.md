@@ -36,9 +36,6 @@
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
 * bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
-# Sites
-* [Kindle 格安マンガまとめ](http://kindle-comic.info)
-* [Kindle 無料マンガまとめ](http://kindle-free-comic.info)
 
 # Self Introduction
 
