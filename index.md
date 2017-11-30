@@ -150,6 +150,8 @@
 
 ## Pull Requests
 
+* [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
+    * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463)
 * [tmux/tmux](https://github.com/tmux/tmux)
     * Fix East Asian Ambiguous (Unity half-width) [#1140](https://github.com/tmux/tmux/pull/1140) (not merged)
 * [fog/fog-libvirt](https://github.com/fog/fog-libvirt)
