@@ -37,8 +37,6 @@
 * bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 * KRB address: KgGc79QyYag4LugEc2Gnxobt7Mfe9CSEh4NqGzdysooL3Czy6mKtuqLiCehzgoBDESTaYDN3U9XtgLxVJLmPCi397ppx6cL
 
-# Sites
-* [kobo 格安マンガまとめ](https://ebook-comic.info)
 
 # Self Introduction
 
