@@ -198,6 +198,8 @@
     * using Unity 4
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
     * collections of formulae for me
+* [krb-script](https://github.com/atton/krb-script)
+    * Karbowanec Provisioning scripts.
 * [noir](https://github.com/atton/noir)
     * collections of utils for me(ruby gem)
 * [similar_monad](https://github.com/atton/similar_monad)
