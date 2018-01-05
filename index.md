@@ -13,7 +13,6 @@
 <img src="business_card.png" alt="めいし" width="300px">
 
 # Accounts
-* Mail: e115763@gmail.com
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * GitHub:  [atton](https://github.com/atton)
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
