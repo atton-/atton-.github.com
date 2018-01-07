@@ -12,7 +12,7 @@
 <title>atton.github.com</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
-## 2017/12/01: 大変申し分けございせんが、現在私情につきお仕事の依頼は受けつけておりません。
+## 2017/12/01: 大変申し分けございませんが、現在私情につきお仕事の依頼は受けつけておりません。
 
 # Accounts
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
