@@ -85,7 +85,7 @@
 
 ## Infrastructure Experiences(Sub skills)
 * L1,L2,L3knowledge: cisco(CCENT Level) 2008~
-* Cloud services: sakura, heroku, AWS(EC2, S3)
+* Cloud services: sakura, heroku, AWS(EC2, S3), GCP(Compute Engine)
 * LDAP, BIND9, RADIUS, DHCP, libvirt
     * tutorial level + alpha
 
