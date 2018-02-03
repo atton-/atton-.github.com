@@ -12,7 +12,7 @@
 <title>atton.github.com</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
-## 2017/12/01: 大変申し分けございませんが、現在私情につきお仕事の依頼は受けつけておりません。
+## 2017/12/01: 大変申しわけございませんが、現在私情につきお仕事の依頼は受けつけておりません。
 
 # Accounts
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
@@ -101,6 +101,8 @@
     * use for multiple windows/panels in local.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
+    * My local sandbox or local development environment with Dockerfile.
+    * Generally, I use run, build, exec commands.
 * my [dot files](https://github.com/atton/dot_files)
 
 ## Hobby
