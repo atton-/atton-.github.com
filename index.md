@@ -12,8 +12,6 @@
 <title>atton.github.com</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
-## 2017/12/01: 大変申しわけございませんが、現在私情につきお仕事の依頼は受けつけておりません。
-
 # Accounts
 * Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * GitHub:  [atton](https://github.com/atton)
@@ -31,7 +29,7 @@
 * mstdn.jp: [atton](https://mstdn.jp/@atton )
 * Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton) [repository](https://github.com/atton/aoj)
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
-* bit coin address: 3K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
+* bit coin address: 4K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 * KRB address: KgGc79QyYag4LugEc2Gnxobt7Mfe9CSEh4NqGzdysooL3Czy6mKtuqLiCehzgoBDESTaYDN3U9XtgLxVJLmPCi397ppx6cL
 
 
@@ -43,7 +41,14 @@
     * Sub: Infrastructure, Web frontend
 
 ## 料金
-* 時給換算: 6500円~
+* Web Application(フルスクラッチ) 1,500,000円~
+* Web Application(機能追加, 保守) 750,000円~
+* Smartphone Application (フルスクラッチ) 1,500,000円~
+    * 納期に長めの時間を要求することがあります。
+* Smartphone Application(機能追加, 保守) 750,000円~
+    * 納期に長めの時間を要求することがあります。
+* サーバ環境構築,メンテナンス,保守など 1,000,000円~
+
 * オフラインミーティング(会議室など): 75,000円~
 * オンラインミーティング(Skype など): 0円~
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
