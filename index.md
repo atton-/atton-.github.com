@@ -72,6 +72,8 @@
         * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
         * I implemented all features(Our team has only one engineer(me)).
         * Maintain Period: 2017/10~11
+    * Project 2018/02~
+        * Details are protected by NDA.
 
 ## Programming Experiences
 * Ruby(2012~)
