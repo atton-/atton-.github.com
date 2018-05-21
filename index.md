@@ -75,7 +75,7 @@
     * Project 2018/02~
         * Details are protected by NDA.
 
-## Programming Experiences
+## Programming Experiences and Skills
 * Ruby(2012~)
     * A most writable language.
     * Develop web application using Rails 4 as part time job(2 year).
@@ -90,10 +90,18 @@
 * Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, golang, PHP, Elm, Promela ...
     * Tutorial level or tutorial + alpha level.
 
-## Infrastructure Experiences(Sub skills)
-* L1,L2,L3knowledge: cisco(CCENT Level) 2008~
-* Cloud services: sakura, heroku, AWS(EC2, S3), GCP(Compute Engine)
-* LDAP, BIND9, RADIUS, DHCP, libvirt
+## Infrastructure Experiences
+* Manage On-premises servers in University(2012~2016)
+    * CentOS7, VMWare, LDAP, BIND9, RADIUS, DHCP, libvirt
+* Replace On-premises servers in University(2016)
+    * using our system [Akatsuki](https://github.com/atton/akatsuki)
+    * CentOS7, HA Cluster, GFS2, LDAP, BIND9, RADIUS, DHCP, libvirt, Docker
+* Maintain On-premises servers in University(2016~2017)
+
+## Infrastructure Skills
+* L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
+* Cloud services: sakura cloud, heroku, AWS(EC2, S3), GCP(Compute Engine)
+* Services: LDAP, BIND9, RADIUS, DHCP, libvirt, Docker
     * tutorial level + alpha
 
 ## Tools which I usually use
@@ -109,7 +117,6 @@
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
     * My local sandbox or local development environment with Dockerfile.
-    * Generally, I use run, build, exec commands.
 * my [dot files](https://github.com/atton/dot_files)
 
 ## Hobby
