@@ -173,7 +173,7 @@
     * webdict ソースに start_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
 
 
-## Customize for me
+## Customized sources for me
 * [a.vim](https://github.com/atton/a.vim)
 * [utf8proc](https://github.com/atton/utf8proc)
 * [xv6](https://github.com/atton/xv6)
