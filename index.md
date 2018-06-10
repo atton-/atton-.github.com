@@ -59,7 +59,7 @@
     * 基本的にリモートワーク(どうしても出社必須だと要相談)
     * ベンチャー企業なら報酬を一部株で代替可能
 * でお願いします。
-* また、フリーランスは各種手当・賞与・退職金が無いことや健康保険料と年金が自己負担であることを考慮して頂けると幸いです。
+* また、フリーランスは各種の手当・賞与・退職金が無いことや、健康保険料と年金が自己負担であることを考慮した上で値段交渉して頂けると幸いです。
 * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
 * ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
 
@@ -72,7 +72,7 @@
         * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
         * I implemented all features(Our team has only one engineer(me)).
         * Maintain Period: 2017/10~11
-    * Project 2018/02~
+    * Project(2018/02~2018/06)
         * Details are protected by NDA.
 
 ## Programming Experiences and Skills
@@ -109,7 +109,6 @@
 * Linux
     * usually RHEL(CentOS, ScientificLinux, Fedora)
 * NeoVim
-    * Vim
 * Git
     * can rebase, read reflog, can reset --hard, can bisect, ...
 * tmux
@@ -129,11 +128,11 @@
 
 
 ## LICENSES
-* IPA 初級システムアドミニストレータ(2008)
-* IPA 基本情報技術者(2009)
-* IPA 応用情報技術者(2009)
-* Cisco CCENT(2009)
 * 普通自動車免許(2012)
+* Cisco CCENT(2009)
+* IPA 応用情報技術者(2009)
+* IPA 基本情報技術者(2009)
+* IPA 初級システムアドミニストレータ(2008)
 
 
 # Slides
