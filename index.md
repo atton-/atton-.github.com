@@ -18,17 +18,18 @@
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * Book meter: [atton](https://bookmeter.com/users/764422)
-* amakan: [atton](https://amakan.net/@atton)
-* VALU: [atton](https://valu.is/atton)
-* PSN: atton_34
-* Skype: atton.
-* Animetick: [_atton](http://animetick.net/users/_atton)
+* Discord: atton#6894
 * FGO: もみじ(565,422,721)
+* PSN: atton_34
+* Animetick: [_atton](http://animetick.net/users/_atton)
+* Skype: atton.
+* amakan: [atton](https://amakan.net/@atton)
 * friends.nico: [atton](https://friends.nico/@atton)
 * pawoo: [_atton](https://pawoo.net/@_atton )
 * mstdn.jp: [atton](https://mstdn.jp/@atton )
 * Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton) [repository](https://github.com/atton/aoj)
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
+* VALU: [atton](https://valu.is/atton)
 * bit coin address: 4K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 * KRB address: KgGc79QyYag4LugEc2Gnxobt7Mfe9CSEh4NqGzdysooL3Czy6mKtuqLiCehzgoBDESTaYDN3U9XtgLxVJLmPCi397ppx6cL
 
