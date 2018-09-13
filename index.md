@@ -13,9 +13,9 @@
 <img src="business_card.png" alt="めいし" width="300px">
 
 # Accounts
-* Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
-* GitHub:  [atton](https://github.com/atton)
 * Blog: [atton.blog](https://attonblog.blogspot.jp/)
+* GitHub:  [atton](https://github.com/atton)
+* Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * Book meter: [atton](https://bookmeter.com/users/764422)
 * Discord: atton#6894
@@ -111,7 +111,7 @@
     * usually RHEL(CentOS, ScientificLinux, Fedora)
 * NeoVim
 * Git
-    * can rebase, read reflog, can reset --hard, can bisect, ...
+    * can (rebase -i, reflog, reset --hard, bisect, cherry-pick HEAD^, ...)
 * tmux
     * use for multiple windows/panels in local.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
