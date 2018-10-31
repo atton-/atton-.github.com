@@ -119,14 +119,6 @@
     * My local sandbox or local development environment with Dockerfile.
 * my [dot files](https://github.com/atton/dot_files)
 
-## Hobby
-* Reading books
-    * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋 縋 ...
-* Programming
-* Play game
-    * Play Station 4, Vita
-* Tea
-
 
 ## LICENSES
 * 普通自動車免許(2012)
@@ -150,7 +142,6 @@
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
 
-
 # OSS Contributions
 
 ## Pull Requests
@@ -171,7 +162,6 @@
     * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
 * [thinca/vim-ref](https://github.com/thinca/vim-ref)
     * webdict ソースに start_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
-
 
 ## Customized sources for me
 * [a.vim](https://github.com/atton/a.vim)
@@ -215,3 +205,12 @@
     * slideshow theme
 * [slideshow-s6cr](https://github.com/atton/slideshow-s6cr)
     * slideshow theme(S6 version)
+
+
+# Hobby
+* Reading books
+    * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋 縋 ...
+* Programming
+* Play game
+    * Play Station 4, Vita
+* Tea
