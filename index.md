@@ -71,7 +71,7 @@
   * 2014/07-2015/03, 2016/03-2016/06
   * time of part-time job over 370 hours
 * Master's graduation(2017/03)
-* DWANGO (2017/04~2017/07)
+* [DWANGO](http://dwango.co.jp) (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
     * Project using Rails 5.1
         * Main Development Period: 2017/08~2017/09
