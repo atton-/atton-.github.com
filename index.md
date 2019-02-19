@@ -66,6 +66,11 @@
 
 
 ## Job History
+* Part-time jobs
+  * Project using Rails 4
+  * 2014/07-2015/03, 2016/03-2016/06
+  * time of part-time job over 370 hours
+* Master's graduation(2017/03)
 * DWANGO (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
     * Project using Rails 5.1
@@ -73,6 +78,7 @@
         * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
         * I implemented all features(Our team has only one engineer(me)).
         * Maintain Period: 2017/10~11
+        * Full remote work
     * Project(2018/02~2018/06)
         * Details are protected by NDA.
 
