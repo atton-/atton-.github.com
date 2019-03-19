@@ -38,17 +38,13 @@
 
 ## Job
 * Freelance Engineer
-    * Main: Web background
+    * Main: Web backend
     * Sub: Infrastructure, Web frontend
 
 ## 料金
 * Web Application(フルスクラッチ) 1,500,000円~
 * Web Application(機能追加, 保守) 750,000円~
-* Smartphone Application (フルスクラッチ) 1,500,000円~
-    * 納期に長めの時間を要求することがあります。
-* Smartphone Application(機能追加, 保守) 750,000円~
-    * 納期に長めの時間を要求することがあります。
-* サーバ環境構築,メンテナンス,保守など 1,000,000円~
+* サーバ環境構築, メンテナンス, 保守など 1,000,000円~
 
 * オフラインミーティング(会議室など): 75,000円~
 * オンラインミーティング(Skype など): 0円~
@@ -114,12 +110,12 @@
 ## Tools which I usually use
 * macOS
 * Linux
-    * usually RHEL(CentOS, ScientificLinux, Fedora)
+    * usually RHEL(CentOS, Fedora)
 * NeoVim
 * Git
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick HEAD^, ...)
 * tmux
-    * use for multiple windows/panels in local.
+    * use for multiple windows/panels in terminal.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
 * Docker
     * My local sandbox or local development environment with Dockerfile.
