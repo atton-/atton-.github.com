@@ -23,7 +23,6 @@
 * PSN: atton_34
 * Animetick: [_atton](http://animetick.net/users/_atton)
 * Skype: atton.
-* amakan: [atton](https://amakan.net/@atton)
 * friends.nico: [atton](https://friends.nico/@atton)
 * pawoo: [_atton](https://pawoo.net/@_atton )
 * mstdn.jp: [atton](https://mstdn.jp/@atton )
