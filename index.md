@@ -29,7 +29,6 @@
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
 * VALU: [atton](https://valu.is/atton)
 * bit coin address: 4K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
-* KRB address: KgGc79QyYag4LugEc2Gnxobt7Mfe9CSEh4NqGzdysooL3Czy6mKtuqLiCehzgoBDESTaYDN3U9XtgLxVJLmPCi397ppx6cL
 
 
 # Self Introduction
