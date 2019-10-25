@@ -108,7 +108,7 @@
     * usually RHEL(CentOS, Fedora)
 * NeoVim
 * Git
-    * can (rebase -i, reflog, reset --hard, bisect, cherry-pick HEAD^, ...)
+    * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * tmux
     * use for multiple windows/panels in terminal.
     * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
