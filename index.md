@@ -72,6 +72,9 @@
         * Full remote work
     * Project(2018/02~2018/06)
         * Details are protected by NDA.
+    * work with [Carat Inc.](https://www.caratinc.jp) 2019/08~
+        * Full remote work
+        * Rails + AWS
 
 ## Programming Experiences and Skills
 * Ruby(2012~)
