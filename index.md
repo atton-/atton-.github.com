@@ -51,7 +51,11 @@
     * 基本的にリモートワーク(毎日出社必須だと要相談)
     * ベンチャー企業なら報酬を一部株で代替可能
 * でお願いします。
-* また、フリーランスは各種の手当・賞与・退職金が無いことや、健康保険料と年金が自己負担であることを考慮した上で値段交渉して頂けると幸いです。
+* また、作業の価格について、フリーランスは
+    * 各種福利厚生が無い
+    * 賞与・退職金・その他手当が無い
+    * 健康保険料や年金が自己負担
+* である事を考慮した上で値段交渉して頂けると幸いです。
 * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
 * ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
 
@@ -102,19 +106,21 @@
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
 * Cloud services: sakura cloud, heroku, AWS(EC2, S3, Lambda, RDS, KMS, CloudFormation, CloudWatch, SAM), GCP(Compute Engine)
-* Virtualized environments: VM(virutalbox, kvm, VMWare), Container(Docker for Mac, docker, docker-compose)
-* Services: LDAP, BIND9, RADIUS, DHCP
+* Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
+* Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
     * tutorial level + alpha
 
 ## Tools which I usually use
 * macOS
-* NeoVim
+* Homebrew
+    * homebrew-core, homebrew-cask
+* Neovim + plugins
 * Git
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * tmux
     * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
     * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
-* Docker for Mac
+* Docker Desktop for Mac
     * My local sandbox or local development environments(alpine, centos, ubuntu, fedora, ...)
 * my [dot files](https://github.com/atton/dot_files)
 
