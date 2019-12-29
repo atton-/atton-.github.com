@@ -138,6 +138,7 @@
 * 2014/04/26 : [新入生歓迎LT祭り 2014](https://atnd.org/events/49555) [スライド(pdf)](slides/ie-lt-2014/ie-lt-2014.pdf)
 * 2014/03/26 : [Haskell 勉強会](https://atnd.org/events/48884)_[資料](https://github.com/ie-developers/ie-haskell)
 * 2013/08/10 : [xhago4](http://hago.doorkeeper.jp/events/4396) [スライド](slides/xhago4/xhago4.html)
+* 2013/04/29 : [新入生歓迎LT祭り 2013](https://atnd.org/events/38233) [スライド](slides/ie-lt-2013/slide.html)
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
 

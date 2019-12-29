@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+
+<!--
+  Google HTML5 slide template
+
+  Authors: Luke Mahé (code)
+           Marcin Wichary (code and design)
+
+           Dominic Mazzoni (browser compatibility)
+           Charles Chen (ChromeVox support)
+
+  URL: http://code.google.com/p/html5slides/
+-->
+
+<html>
+    <head>
+        <title>Hello Command Line World.</title>
+
+        <meta charset='utf-8'>
+        <script src='html5slides/slides.js'></script>
+    </head>
+
+    <style>
+        /* Your individual styles here, or just use inline styles if that’s
+        what you want. */
+    </style>
+
+    <body style='display: none'>
+
+        <section class='slides layout-regular template-concurrency'>
+
+            <!-- Your slides (<article>s) go here. Delete or comment out the
+                slides below. -->
+
+
+            <article>
+                <h1>
+                    Hello Command Line World.
+                </h1>
+                <p>
+                あっとん@ッターン<br>
+                2013/04/29(月)
+                </p>
+            </article>
+
+            <article>
+                <h3>あじぇんだ</h3>
+                <ul>
+                    <li> あんただれ </li>
+                    <li> Command Line を使おう </li>
+                    <li> 実際何がうれしいのか </li>
+                    <li> 興味を持ったら </li>
+                </li>
+            </article>
+
+            <article>
+            <h3> あんただれ</h3>
+            <ul>
+                <li> あっとんのようななにか</li>
+                <li> Twitter : @_atton </li>
+                <ul>
+                    <li> かけだしVimmer </li>
+                    <li> ひよっこRubyist </li>
+                    <li> さいきんHaskellしようか詐欺 </li>
+                </ul>
+                <li>何言ってるか分かる人は斧投げにryudai.rbにおいでませ </li>
+                <li>分からない人はRubyの洗脳されにryudai.rbにおいでませ </li>
+                <li>ryudai.rb は木曜日の 19:00 から 321 でやってます </li>
+                <ul>
+                    <li> ここテストに出ません </li>
+                </ul>
+            </ul>
+            </article>
+
+            <article>
+                <h1 align='center'>今日の本題</h1>
+            </article>
+
+            <article>
+                <h1 align='center'> Command Line 使おう</h1>
+            </article>
+
+            <article>
+                <h1 align='center'> - おわり - </h1>
+            </article>
+
+            <article>
+                <h3> Command Line って何</h3>
+                <ul>
+                    <li> 要はキーボードだけでPCを操作すること </li>
+                    <ul>
+                        <li>CUI : Character User Interfaca</li>
+                        <li>CLI : Command Line Interface </li>
+                    </ul>
+                    <li> とかも言ったりします</li>
+                </ul>
+                <h4>つまり映画とかで出てくる黒い画面とかそーいうアレ</h4>
+            </article>
+
+            <article>
+                <h3>つまりは</h3>
+                <img class='centered' style='height: 500px' src='https://livedoor.blogimg.jp/jigokuno_misawa/imgs/3/7/3725cf20.gif'>
+            </article>
+
+            <article>
+            <h3>どんなことができるのか</h3>
+                <ul>
+                    <li>ここにLTのスライドあったっけ</li>
+                    <li>ごちゃごちゃしてるので関係無いのを移動させよう</li>
+                </ul>
+
+                <h4> Commands and Words</h4>
+                <ul>
+                    <li> ls    : ファイルの一覧を表示</li>
+                    <li> mkdir : ディレクトリ(フォルダ)を作成</li>
+                    <li> mv    : ファイルの名称変更(移動)</li>
+                    <li> grep  : 特定の単語でフィルタリング</li>
+                    <li> ファイルグロブ : '*' とか</li>
+                    <ul>
+                        <li> 直接文字を指定ではなく、パターンを指定できる。</li>
+                    </ul>
+                </ul>
+            </article>
+
+            <article>
+                <h3> なにがうれしいのか </h3>
+                <ul>
+                    <li> キーボードを打つだけで作業できる </li>
+                    <li> 文字で操作するので、入力、出力が基本的にテキスト</li>
+                    <li> コマンドはテキストに対してだいたい適用可能</li>
+                    <li> つまりコマンドの組合せで戦える</li>
+                </ul>
+
+                <h4> Words </h4>
+                <ul>
+                    <li> パイプ  '|'  </li>
+                    <ul>
+                        <li> あるコマンドの出力とあるコマンドの入力をつなぐ</li>
+                    </ul>
+                    <li> リダイレクション '&lt;', '&gt;'</li>
+                    <ul>
+                        <li> コマンドの入力とか出力にファイルをつなぐ</li>
+                    </ul>
+                </ul>
+            </article>
+
+            <article>
+                <h3> たとえば </h3>
+                <ul>
+                    <li> grep はファイルにも使える</li>
+                    <li> その出力をコマンドにも渡せる</li>
+                    <li> テストに 'IP' って単語が出るらしいと聞いた</li>
+                    <ul>
+                        <li> 'IP'を含むノートをまとめて見たい</li>
+                        <li> 'IP'を含むノートを移動させたい</li>
+                    </ul>
+                </ul>
+
+                <h4> Hints </h4>
+                <ul>
+                    <li>オプションを指定することで出力を変えられる</li>
+                    <li>xargs</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>ほかにも便利なコマンドがたくさんある</h3>
+                <ul>
+                    <li>すぐにレポートが作れる</li>
+                    <li>提出もできるし</li>
+                    <li>管理してたらファイルを間違って消しちゃっても大丈夫</li>
+                    <li>便利に編集できるエディタもある</li>
+                </ul>
+
+                <h4> Hints </h4>
+                <ul>
+                    <li>LaTeX</li>
+                    <li>make</li>
+                    <li>rsync</li>
+                    <li>git, mercurial</li>
+                    <li>Vim, Emacs</li>
+                </ul>
+            </article>
+
+            <article>
+                <h1 align='center'>ね？CLI操作簡単でしょ？</h1>
+            </article>
+
+            <article>
+                <h3> 興味をもったら </h3>
+                <ul>
+                    <li> ターミナルを使おう</li>
+                    <li> The UNIX Super Text を読もう</li>
+                    <ul>
+                        <li> 君達が入手する初の鈍器 </li>
+                        <li> 私も始めて入手したのは以下略。きっと特別な以下略</li>
+                        <li> 半分も読めば結構良い感じになるはず </li>
+                    </ul>
+                    <li> いろいろとターミナルでやってみよう</li>
+                    <li> 楽をしましょう</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>つまり</h3>
+                <img class='centered' style='height: 500px' src='https://livedoor.blogimg.jp/jigokuno_misawa/imgs/3/7/3725cf20.gif'>
+            </article>
+
+            <article>
+                <h1 align='center'> Hello Command Line World.</h1>
+            </article>
+
+        </section>
+    </body>
+</html>
