@@ -113,14 +113,7 @@
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * tmux
     * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
-    * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html)
-    * version [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html)
-    * version [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html)
-    * version [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html)
-    * version [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html)
-    * version [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html)
-    * version [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html)
-    * version [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
+    * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker for Mac
     * My local sandbox or local development environments(alpine, centos, ubuntu, fedora, ...)
 * my [dot files](https://github.com/atton/dot_files)
