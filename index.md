@@ -101,22 +101,28 @@
 
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
-* Cloud services: sakura cloud, heroku, AWS(EC2, S3), GCP(Compute Engine)
-* Services: LDAP, BIND9, RADIUS, DHCP, libvirt, Docker
+* Cloud services: sakura cloud, heroku, AWS(EC2, S3, Lambda, RDS, KMS, CloudFormation, CloudWatch, SAM), GCP(Compute Engine)
+* Virtualized environments: VM(virutalbox, kvm, VMWare), Container(Docker for Mac, docker, docker-compose)
+* Services: LDAP, BIND9, RADIUS, DHCP
     * tutorial level + alpha
 
 ## Tools which I usually use
 * macOS
-* Linux
-    * usually RHEL(CentOS, Fedora)
 * NeoVim
 * Git
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * tmux
-    * use for multiple windows/panels in terminal.
-    * using [half-width patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
-* Docker
-    * My local sandbox or local development environment with Dockerfile.
+    * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
+    * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html)
+    * version [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html)
+    * version [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html)
+    * version [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html)
+    * version [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html)
+    * version [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html)
+    * version [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html)
+    * version [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
+* Docker for Mac
+    * My local sandbox or local development environments(alpine, centos, ubuntu, fedora, ...)
 * my [dot files](https://github.com/atton/dot_files)
 
 
