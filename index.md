@@ -9,7 +9,7 @@
     </script>
 </head>
 
-<title>atton.github.com</title>
+<title>atton.github.io</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
 # Accounts
