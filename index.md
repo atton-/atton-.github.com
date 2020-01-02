@@ -22,7 +22,6 @@
 * FGO: もみじ(565,422,721)
 * PSN: atton_34
 * Animetick: [_atton](http://animetick.net/users/_atton)
-* pawoo: [_atton](https://pawoo.net/@_atton)
 * mstdn.jp: [atton](https://mstdn.jp/@atton)
 * Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton) [repository](https://github.com/atton/aoj)
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
