@@ -13,15 +13,15 @@
 <img src="business_card.png" alt="めいし" width="300px">
 
 # Accounts
-* Blog: [atton.blog](https://attonblog.blogspot.jp/)
+* Blog: [atton.blog](https://attonblog.blogspot.jp)
 * GitHub:  [atton](https://github.com/atton)
-* Twitter: [@_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
+* Twitter: [@\_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
 * Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
 * Book meter: [atton](https://bookmeter.com/users/764422)
 * Discord: atton#6894
 * FGO: もみじ(565,422,721)
 * PSN: atton_34
-* Animetick: [_atton](http://animetick.net/users/_atton)
+* Animetick: [\_atton](http://animetick.net/users/_atton)
 * mstdn.jp: [atton](https://mstdn.jp/@atton)
 * Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton) [repository](https://github.com/atton/aoj)
 * AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
@@ -35,10 +35,10 @@
     * Main: Web backend
     * Sub: Infrastructure, Web frontend
 
-## 料金
+## Pricing
 * ベース: 900,000~
     * Web Application: バックエンド(Rails)
-    * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD 環境構築など
+    * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD, など
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
 
 * お仕事に関しては
@@ -54,7 +54,6 @@
 * である事を考慮した上で値段交渉して頂けると幸いです。
 * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
 * ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
-
 
 ## Job History
 * Part-time jobs
@@ -101,7 +100,11 @@
 
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
-* Cloud services: sakura cloud, heroku, AWS(EC2, S3, Lambda, RDS, KMS, CloudFormation, CloudWatch, SAM), GCP(Compute Engine)
+* Cloud services:
+  * sakura cloud
+  * heroku
+  * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch, SAM)
+  * GCP(Compute Engine)
 * Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
 * Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
     * tutorial level + alpha
@@ -120,7 +123,6 @@
     * My local sandbox or local development environments(alpine, centos, ubuntu, fedora, ...)
 * my [dot files](https://github.com/atton/dot_files)
 
-
 ## LICENSES
 * 普通自動車免許(2012)
 * Cisco CCENT(2009)
@@ -138,7 +140,7 @@
 * 2014/08/23 : [Vim勉強会2014](https://atnd.org/events/55445) [スライド](slides/ie-vim-2014/slide.html)
 * 2014/05/24 : [オープンソースカンファレンス 2014 Okinawa](http://www.ospn.jp/osc2014-okinawa/) [スライド](slides/osc2014/slide.html)
 * 2014/04/26 : [新入生歓迎LT祭り 2014](https://atnd.org/events/49555) [スライド(pdf)](slides/ie-lt-2014/ie-lt-2014.pdf)
-* 2014/03/26 : [Haskell 勉強会](https://atnd.org/events/48884)_[資料](https://github.com/ie-developers/ie-haskell)
+* 2014/03/26 : [Haskell 勉強会](https://atnd.org/events/48884) [資料](https://github.com/ie-developers/ie-haskell)
 * 2013/08/10 : [xhago4](http://hago.doorkeeper.jp/events/4396) [スライド](slides/xhago4/xhago4.html)
 * 2013/04/29 : [新入生歓迎LT祭り 2013](https://atnd.org/events/38233) [スライド](slides/ie-lt-2013/slide.html)
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
