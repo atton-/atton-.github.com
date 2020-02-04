@@ -45,7 +45,6 @@
     * 時給換算でなく、実装や環境構築など(仕様ベース, Issueベース, 機能要件ベース, 数値ベース, ...)
     * 準委任契約
     * リモートワーク
-    * ベンチャー企業なら報酬を一部株で代替可能
 * でお願いします。
 * また、作業の価格について、フリーランスは
     * 各種福利厚生が無い
@@ -57,9 +56,9 @@
 
 ## Job History
 * Part-time jobs
-  * Project using Rails 4
-  * 2014/07-2015/03, 2016/03-2016/06
-  * time of part-time job over 370 hours
+    * Project using Rails 4
+    * 2014/07-2015/03, 2016/03-2016/06
+    * time of part-time job over 370 hours
 * Master's graduation(2017/03)
 * [DWANGO](http://dwango.co.jp) (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
@@ -101,10 +100,10 @@
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
 * Cloud services:
-  * sakura cloud
-  * heroku
-  * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch, SAM)
-  * GCP(Compute Engine)
+    * sakura cloud
+    * heroku
+    * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch, SAM)
+    * GCP(Compute Engine)
 * Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
 * Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
     * tutorial level + alpha
@@ -112,11 +111,12 @@
 ## Tools which I usually use
 * macOS
 * Homebrew
-    * homebrew-core, homebrew-cask
+    * official taps: [homebrew/cask](https://github.com/homebrew/homebrew-cask), [homebrew/bundle](https://github.com/homebrew/homebrew-bundle)
+    * unofficial taps: [atton/customs](https://github.com/atton/homebrew-customs), [aws/tap](https://github.com/aws/homebrew-tap), [songmu/tap](https://github.com/songmu/homebrew-tap)
 * Neovim + plugins
 * Git
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
-* tmux
+* [tmux](https://github.com/atton/tmux)
     * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
     * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker Desktop for Mac
