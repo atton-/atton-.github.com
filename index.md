@@ -100,10 +100,10 @@
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
 * Cloud services:
-    * sakura cloud
-    * heroku
     * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch, SAM)
     * GCP(Compute Engine)
+    * heroku
+    * sakura cloud
 * Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
 * Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
     * tutorial level + alpha
