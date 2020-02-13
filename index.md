@@ -1,5 +1,9 @@
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <title>atton.github.io</title>
+    <link rel="icon" type="image/png" href="favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/16x16.png">
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -9,7 +13,6 @@
     </script>
 </head>
 
-<title>atton.github.io</title>
 <img src="business_card.png" alt="めいし" width="300px">
 
 # Accounts
