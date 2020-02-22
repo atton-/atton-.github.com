@@ -179,6 +179,7 @@
 * [zsh-notify](https://github.com/atton/zsh-notify)
 * [fog-libvirt](https://github.com/atton/fog-libvirt)
 * [tmux](https://github.com/atton/tmux)
+* [slack-files-remover](https://github.com/atton/slack-files-remover)
 
 ## Original Project or Contributions
 * [agda-proofs](https://github.com/atton/agda-proofs)
