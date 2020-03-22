@@ -28,8 +28,6 @@
 * PSN: atton_34
 * Animetick: [\_atton](http://animetick.net/users/_atton)
 * mstdn.jp: [atton](https://mstdn.jp/@atton)
-* Aizu Online Judge: [atton](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=atton) [repository](https://github.com/atton/aoj)
-* AtCoder: [atton](http://atcoder.jp/user/atton) [repository](https://github.com/atton/AtCoder)
 * bit coin address: 4K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 
