@@ -20,15 +20,8 @@
 # Accounts
 * Blog: [atton.blog](https://attonblog.blogspot.jp)
 * GitHub:  [atton](https://github.com/atton)
-* Twitter: [@\_atton](https://twitter.com/_atton), tweet archive: [20171031](twitter-archive/index.html)
-* Amazon: [wish list](https://www.amazon.co.jp/registry/wishlist/273DXGJEJLEVN/)
-* Book meter: [atton](https://bookmeter.com/users/764422)
-* Discord: atton#6894
+* Twitter: [@\_atton](https://twitter.com/_atton)
 * FGO: もみじ(565,422,721)
-* PSN: atton_34
-* Animetick: [\_atton](http://animetick.net/users/_atton)
-* mstdn.jp: [atton](https://mstdn.jp/@atton)
-* bit coin address: 4K61u2B3k5bGmwCyDSMKyL8uF5xi7z863D
 
 
 # Self Introduction
