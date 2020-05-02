@@ -145,10 +145,9 @@
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
 
-# OSS Contributions
+# Public Repositories in GitHub
 
-## Pull Requests
-
+## OSS Contributions
 * [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
     * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463) (not merged)
 * [tmux/tmux](https://github.com/tmux/tmux)
@@ -164,20 +163,9 @@
 * [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify)
     * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
 * [thinca/vim-ref](https://github.com/thinca/vim-ref)
-    * webdict ソースに start_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
+    * webdict ソースに start\_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
 
-## Customized sources for me
-* [a.vim](https://github.com/atton/a.vim)
-* [utf8proc](https://github.com/atton/utf8proc)
-* [xv6](https://github.com/atton/xv6)
-* [zsh-notify](https://github.com/atton/zsh-notify)
-* [fog-libvirt](https://github.com/atton/fog-libvirt)
-* [tmux](https://github.com/atton/tmux)
-* [slack-files-remover](https://github.com/atton/slack-files-remover)
-
-## Original Project or Contributions
-* [agda-proofs](https://github.com/atton/agda-proofs)
-    * my agda sandbox
+## Local Project Repositories
 * [Akatsuki](https://github.com/atton/akatsuki)
     * Open-Sourced version.
     * private cloud system of department of university of ryukyus.
@@ -188,31 +176,35 @@
     * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
     * Akatsuki controls 1000+IP, 400+VM for 500+ users.
     * Related blog posts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
-* [delta_monad](https://github.com/atton/delta_monad)
-    * my thesis
+* [heroes\_and\_daemons](https://github.com/atton/heroes_and_daemons)
+    * Battle Game uses Unity 4 for exercise in University
+
+## Forked or Original Repositories
+* [a.vim](https://github.com/atton/a.vim)
+* [agda-proofs](https://github.com/atton/agda-proofs)
+* [delta\_monad](https://github.com/atton/delta_monad)
+* [fog-libvirt](https://github.com/atton/fog-libvirt)
+* [git-scripts](https://github.com/atton/git-scripts)
 * [hdd-keeper](https://github.com/atton/hdd-keeper)
-    * hdd keeper using 3D Printer
-* [heroes_and_daemons](https://github.com/atton/heroes_and_daemons)
-    * Battle Game for exercise in University
-    * using Unity 4
 * [homebrew-customs](https://github.com/atton/homebrew-customs)
-    * collections of formulae for me
 * [krb-script](https://github.com/atton/krb-script)
-    * Karbowanec Provisioning scripts.
+* [mac-scripts](https://github.com/atton/mac-scripts)
 * [noir](https://github.com/atton/noir)
-    * collections of utils for me(ruby gem)
-* [similar_monad](https://github.com/atton/similar_monad)
-    * base of my thesis(sandbox)
+* [similar\_monad](https://github.com/atton/similar_monad)
+* [slack-files-remover](https://github.com/atton/slack-files-remover)
 * [slideshow-cr](https://github.com/atton/slideshow-cr)
-    * slideshow theme
 * [slideshow-s6cr](https://github.com/atton/slideshow-s6cr)
-    * slideshow theme(S6 version)
+* [tmux](https://github.com/atton/tmux)
+* [utf8proc](https://github.com/atton/utf8proc)
+* [xv6](https://github.com/atton/xv6)
+* [zsh-notify](https://github.com/atton/zsh-notify)
 
 
 # Hobby
 * Reading books
-    * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋 縋 ...
+    * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋縋 ...
 * Programming
 * Play game
-    * Play Station 4, Vita
+    * Play Station 4
+    * Fate/Grand Order(UserID: 565,422,721)
 * Tea
