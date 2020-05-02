@@ -21,8 +21,6 @@
 * Blog: [atton.blog](https://attonblog.blogspot.jp)
 * GitHub:  [atton](https://github.com/atton)
 * Twitter: [@\_atton](https://twitter.com/_atton)
-* FGO: もみじ(565,422,721)
-
 
 # Self Introduction
 
@@ -38,17 +36,21 @@
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
 
 * お仕事に関しては
-    * 時給換算でなく、実装や環境構築など(仕様ベース, Issueベース, 機能要件ベース, 数値ベース, ...)
     * 準委任契約
-    * リモートワーク
+    * 完全リモートワーク
 * でお願いします。
 * また、作業の価格について、フリーランスは
     * 各種福利厚生が無い
     * 賞与・退職金・その他手当が無い
     * 健康保険料や年金が自己負担
-* である事を考慮した上で値段交渉して頂けると幸いです。
-* 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
-* ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
+* という事を考慮した上で値段交渉して頂けると幸いです。
+* 値段交渉について
+    * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
+    * ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
+* その他の補足
+    * 契約期間の単位調整可(1ヶ月単位、3ヶ月単位など)
+    * 週5以外の勤務体系可
+    * 休日勤務などの変則勤務可
 
 ## Job History
 * Part-time jobs
@@ -59,14 +61,14 @@
 * [DWANGO](http://dwango.co.jp) (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
     * Project using Rails 5.1
-        * Main Development Period: 2017/08~2017/09
-        * About 3k lines(maximum performance: 3k lines/2weeks) with rspec
-        * I implemented all features(Our team has only one engineer(me)).
-        * Maintain Period: 2017/10~11
         * Full remote work
+        * Main Development Period: (2017/08~2017/09)
+        * About 3k lines(maximum performance: 3k lines/2weeks) with rspec.
+        * I implemented all functions.
+        * Maintain Period: (2017/10~2017/11)
     * Project(2018/02~2018/06)
         * Details are protected by NDA.
-    * work with [Carat Inc.](https://www.caratinc.jp) 2019/08~
+    * work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
         * Full remote work
         * Rails + AWS
 
