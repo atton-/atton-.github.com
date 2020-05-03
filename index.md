@@ -110,9 +110,7 @@
 ## Tools which I usually use
 * macOS
 * Homebrew
-    * official taps: [homebrew/cask](https://github.com/homebrew/homebrew-cask), [homebrew/bundle](https://github.com/homebrew/homebrew-bundle)
-    * unofficial taps: [atton/customs](https://github.com/atton/homebrew-customs), [aws/tap](https://github.com/aws/homebrew-tap), [songmu/tap](https://github.com/songmu/homebrew-tap)
-* Neovim + plugins
+* Neovim
 * Git
     * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * [tmux](https://github.com/atton/tmux)
@@ -120,7 +118,7 @@
     * version [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker Desktop for Mac
     * My local sandbox or local development environments(alpine, centos, ubuntu, fedora, ...)
-* my [dot files](https://github.com/atton/dot_files)
+* [My dot files](https://github.com/atton/dot_files)
 
 ## LICENSES
 * 普通自動車免許(2012)
@@ -203,8 +201,7 @@
 # Hobby
 * Reading books
     * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋縋 ...
-* Programming
 * Play game
     * Play Station 4
-    * Fate/Grand Order(UserID: 565,422,721)
+    * Fate/Grand Order(UserName: もみじ, UserID: 565,422,721)
 * Tea
