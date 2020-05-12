@@ -1,18 +1,18 @@
 <head>
-    <title>atton.github.io</title>
-    <link rel="icon" type="image/png"               href="favicon/favicon.ico">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon/32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon/16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180"    href="favicon/apple-touch-icon.png">
+  <title>atton.github.io</title>
+  <link rel="icon" type="image/png"               href="favicon/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180"    href="favicon/apple-touch-icon.png">
 
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-109158638-1');
-    </script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-109158638-1');
+  </script>
 </head>
 
 <img src="business_card.png" alt="めいし" width="300px">
@@ -26,99 +26,95 @@
 
 ## Job
 * Freelance Engineer
-    * Main: Web backend
-    * Sub: Infrastructure, Web frontend
+  * Main: Web backend
+  * Sub: Infrastructure, Web frontend
 
 ## Pricing
 * ベース: 900,000~
-    * Web Application: バックエンド(Rails)
-    * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD, など
+  * Web Application: バックエンド(Rails)
+  * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD, など
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
 
 * お仕事に関しては
-    * 準委任契約
-    * 完全リモートワーク
+  * 準委任契約
+  * 完全リモートワーク(機材等の関係)
 * でお願いします。
 * また、作業の価格について、フリーランスは
-    * 各種福利厚生が無い
-    * 賞与・退職金・その他手当が無い
-    * 健康保険料や年金が自己負担
+  * 各種福利厚生・賞与・退職金・その他手当が無い
+  * 健康保険料や国民年金が完全自己負担
 * という事を考慮した上で値段交渉して頂けると幸いです。
 * 値段交渉について
-    * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉なども可能です。
-    * ただ、初月の報酬は前払い(数割前払いでも可能)でお願いします。
+  * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉等可能。
+  * 初月の報酬は前払い(数割前払いでも可能)希望。
 * その他の補足
-    * 契約期間の単位調整可(1ヶ月単位、3ヶ月単位など)
-    * 週5以外の勤務体系可
-    * 休日勤務などの変則勤務可
-    * 早寝早起き派。深夜作業不可。
+  * 契約期間の単位調整可(1ヶ月単位、3ヶ月単位等)。
+  * 週5以外の勤務体系や、休日勤務等の変則勤務可。
+  * 早寝早起き派。基本的に深夜作業不可。
+  * freee 利用中。見積書、納品書、請求書、領収書、発注書等作成可能。
 
 ## Job History
 * Part-time jobs
-    * Project using Rails 4
-    * 2014/07-2015/03, 2016/03-2016/06
-    * time of part-time job over 370 hours
+  * Project using Rails 4
+  * 2014/07-2015/03, 2016/03-2016/06
+  * time of part-time job over 370 hours
 * Master's graduation(2017/03)
 * [DWANGO](http://dwango.co.jp) (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
-    * Project using Rails 5.1
-        * Full remote work
-        * Main Development Period: (2017/08~2017/09)
-        * About 3k lines(maximum performance: 3k lines/2weeks) with rspec.
-        * I implemented all functions.
-        * Maintain Period: (2017/10~2017/11)
-    * Project(2018/02~2018/06)
-        * Details are protected by NDA.
-    * work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
-        * Full remote work
-        * Rails + AWS
+  * Project using Rails 5.1
+    * Full remote work
+    * Main Development Period: (2017/08~2017/09)
+    * About 3k lines(maximum performance: 3k lines/2weeks) with rspec.
+    * I implemented all functions.
+    * Maintain Period: (2017/10~2017/11)
+  * Project(2018/02~2018/06)
+    * Details are protected by NDA.
+  * work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
+    * Full remote work
+    * Rails + AWS
 
 ## Programming Experiences and Skills
 * Ruby(2012~)
-    * A most writable language.
-    * Develop web application using Rails 4 as part time job(2 year).
-    * Maintain private cloud system for department of university of ryukyus(ie-ryukyu).
-        * Named ["Akatsuki"](https://github.com/atton/akatsuki)
-        * Details: bottom of this page
-    * Original gem ["noir"](https://github.com/atton/noir)
-        * Utilitiy commands for myself.
-* Haskell, Agda(2013~)
-    * uses for my research in a university.
-    * I wrote a thesis using Haskell and Agda.
-* Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, golang, PHP, Elm, Promela ...
-    * Tutorial level or tutorial + alpha level.
+  * A most writable language.
+  * Develop web application using Rails 4 as part time job(2 year).
+  * Maintain private cloud system for department of university of ryukyus(ie-ryukyu).
+    * Named ["Akatsuki"](https://github.com/atton/akatsuki)
+    * Details: bottom of this page
+  * Original gem ["noir"](https://github.com/atton/noir)
+    * Utilitiy commands for myself.
+* Haskell, Agda, Java, C, C++, Perl, Python, Shell Script, JavaScript, Scala, VHDL, scheme, golang, PHP, Elm, Promela ...
+  * Tutorial level or tutorial + alpha level.
 
 ## Infrastructure Experiences
 * Manage On-premises servers in University(2012~2016)
-    * CentOS7, VMWare, LDAP, BIND9, RADIUS, DHCP, libvirt
+  * CentOS7, VMWare, LDAP, BIND9, RADIUS, DHCP, libvirt
 * Replace On-premises servers in University(2016)
-    * using our system [Akatsuki](https://github.com/atton/akatsuki)
-    * CentOS7, HA Cluster, GFS2, LDAP, BIND9, RADIUS, DHCP, libvirt, Docker
+  * using our system [Akatsuki](https://github.com/atton/akatsuki)
+  * CentOS7, HA Cluster, GFS2, LDAP, BIND9, RADIUS, DHCP, libvirt, Docker
 * Maintain On-premises servers in University(2016~2017)
 
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
 * Cloud services:
-    * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch, SAM)
-    * GCP(Compute Engine)
-    * heroku
-    * sakura cloud
+  * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch Logs, SAM)
+  * GCP(Compute Engine, Google Kubernetes Engine)
+  * heroku
+  * sakura cloud
 * Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
 * Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
-    * tutorial level + alpha
+  * tutorial level + alpha
 
 ## Tools which I usually use
 * macOS
 * Homebrew
 * Neovim
 * Git
-    * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
+  * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
 * [tmux](https://github.com/atton/tmux)
-    * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
-    * version [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
+  * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
+  * version [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker Desktop for Mac
-    * My local sandbox or local development environments(alpine, centos, ...)
-    * Images : [atton/webpage-title](https://hub.docker.com/repository/docker/atton/webpage-title)
+  * My local sandbox or local development environments(alpine, centos, ...)
+  * Images : [atton/webpage-title](https://hub.docker.com/repository/docker/atton/webpage-title)
 * [My configurations](https://github.com/atton/dot_files)
 
 ## LICENSES
@@ -148,35 +144,35 @@
 
 ## OSS Contributions
 * [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
-    * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463) (not merged)
+  * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463) (not merged)
 * [tmux/tmux](https://github.com/tmux/tmux)
-    * Fix East Asian Ambiguous (Unity half-width) [#1140](https://github.com/tmux/tmux/pull/1140) (not merged)
+  * Fix East Asian Ambiguous (Unity half-width) [#1140](https://github.com/tmux/tmux/pull/1140) (not merged)
 * [fog/fog-libvirt](https://github.com/fog/fog-libvirt)
-    * Volume#clone_volume supports different pools [#46](https://github.com/fog/fog-libvirt/pull/46)
+  * Volume#clone_volume supports different pools [#46](https://github.com/fog/fog-libvirt/pull/46)
 * [shairontoledo/rghost](https://github.com/shairontoledo/rghost)
-    * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
+  * Raise RuntimeException when try convert from unspported class [#67](https://github.com/shairontoledo/rghost/pull/67) (merged)
 * [dwango/scala_text](https://github.com/dwango/scala_text)
-    * 型パラメタの例の修正 [#275](https://github.com/dwango/scala_text/pull/275) (merged)
+  * 型パラメタの例の修正 [#275](https://github.com/dwango/scala_text/pull/275) (merged)
 * [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs)
-    * Support `<C-[>, <C-]>, <C-^>, <C-\\>, <C-_>, <C-->` in Mac [#53](https://github.com/vimperator/vimperator-labs/pull/53) (merged)
+  * Support `<C-[>, <C-]>, <C-^>, <C-\\>, <C-_>, <C-->` in Mac [#53](https://github.com/vimperator/vimperator-labs/pull/53) (merged)
 * [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify)
-    * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
+  * Support background notify in tmux [#5](https://github.com/marzocchi/zsh-notify/pull/5) (self close)
 * [thinca/vim-ref](https://github.com/thinca/vim-ref)
-    * webdict ソースに start\_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
+  * webdict ソースに start\_linenumber オプションを追加してみました。 [#15](https://github.com/thinca/vim-ref/pull/15) (not merged but author adds features)
 
 ## Local Project Repositories
 * [Akatsuki](https://github.com/atton/akatsuki)
-    * Open-Sourced version.
-    * private cloud system of department of university of ryukyus.
-    * Rails 4, about 3k lines with rspec.
-    * Main development period: 3 month.
-    * Maintain period: 18 month.
-    * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
-    * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
-    * Akatsuki controls 1000+IP, 400+VM for 500+ users.
-    * Related blog posts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
+  * Open-Sourced version.
+  * private cloud system of department of university of ryukyus.
+  * Rails 4, about 3k lines with rspec.
+  * Main development period: 3 month.
+  * Maintain period: 18 month.
+  * Has several component([KVM](https://attonblog.blogspot.jp/2015/10/control-kvm-using-fog-libvirt.html), LDAP, [BIND9](https://attonblog.blogspot.jp/2015/10/bind-sdb-with-rails.html), [DHCP](https://attonblog.blogspot.jp/2015/12/freeradius-multiple-dhcp.html), [FreeRADIUS](https://attonblog.blogspot.jp/2015/10/freeradius-dhcp-with-rails.html))
+  * Akatsuki works 4 on-premise servers constructed by [GFS2](https://attonblog.blogspot.jp/2015/11/centos7-hacluster-gfs2.html) on university.
+  * Akatsuki controls 1000+IP, 400+VM for 500+ users.
+  * Related blog posts [here](https://attonblog.blogspot.jp/2016/05/akatsuki-reading.html) and [here](https://attonblog.blogspot.jp/2017/10/akatsuki-oss.html).
 * [heroes\_and\_daemons](https://github.com/atton/heroes_and_daemons)
-    * Battle Game uses Unity 4 for exercise in University
+  * Battle Game uses Unity 4 for exercise in University
 
 ## Forked or Original Repositories
 * [a.vim](https://github.com/atton/a.vim)
@@ -202,8 +198,8 @@
 
 # Hobby
 * Reading books
-    * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋縋 ...
+  * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋縋 ...
 * Play game
-    * Play Station 4
-    * Fate/Grand Order(UserName: もみじ, UserID: 565,422,721)
+  * Play Station 4
+  * Fate/Grand Order(UserName: もみじ, UserID: 565,422,721)
 * Tea
