@@ -5,7 +5,6 @@
   <link rel="icon" type="image/png" sizes="16x16" href="favicon/16x16.png">
   <link rel="apple-touch-icon" sizes="180x180"    href="favicon/apple-touch-icon.png">
 
-  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109158638-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -114,7 +113,6 @@
   * version [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker Desktop for Mac
   * My local sandbox or local development environments(alpine, centos, ...)
-  * Images : [atton/webpage-title](https://hub.docker.com/repository/docker/atton/webpage-title)
 * [My configurations](https://github.com/atton/dot_files)
 
 ## LICENSES
@@ -194,6 +192,10 @@
 * [utf8proc](https://github.com/atton/utf8proc)
 * [xv6](https://github.com/atton/xv6)
 * [zsh-notify](https://github.com/atton/zsh-notify)
+
+## Public Docker Images
+* [atton/latex-make](https://hub.docker.com/r/atton/latex-make)
+* [atton/webpage-title](https://hub.docker.com/r/atton/webpage-title)
 
 
 # Hobby
