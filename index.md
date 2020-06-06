@@ -26,15 +26,15 @@
 ## Job
 * Freelance Engineer
   * Main: Web backend
-  * Sub: Infrastructure, Web frontend
+  * Sub: Infrastructure
 
 ## Pricing
 * ベース: 900,000~
-  * Web Application: バックエンド(Rails)
+  * Web Application: バックエンド(Rails など)
   * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD, など
 * 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
 
-* お仕事に関しては
+* お仕事の条件に関しては
   * 準委任契約
   * 完全リモートワーク(機材等の関係)
 * でお願いします。
@@ -43,24 +43,25 @@
   * 健康保険料や国民年金が完全自己負担
 * という事を考慮した上で値段交渉して頂けると幸いです。
 * 値段交渉について
-  * 初月はお試しとして契約し、初月の活動を評価した上で、契約継続/報酬交渉等可能。
+  * 評価期間(例えばお試し1ヶ月)を設けたのちに契約継続/報酬交渉等も可能。
   * 初月の報酬は前払い(数割前払いでも可能)希望。
 * その他の補足
   * 契約期間の単位調整可(1ヶ月単位、3ヶ月単位等)。
   * 週5以外の勤務体系や、休日勤務等の変則勤務可。
   * 早寝早起き派。基本的に深夜作業不可。
-  * freee 利用中。見積書、納品書、請求書、領収書、発注書等作成可能。
+  * [Freee](https://www.freee.co.jp/index2.html)利用中。見積書、納品書、請求書、領収書、発注書等作成可能。
 
 ## Job History
 * Part-time jobs
+  * Full remote work(Backend and Frontend)
   * Project using Rails 4
   * 2014/07-2015/03, 2016/03-2016/06
   * time of part-time job over 370 hours
 * Master's graduation(2017/03)
-* [DWANGO](http://dwango.co.jp) (2017/04~2017/07)
+* [DWANGO](https://dwango.co.jp) (2017/04~2017/07)
 * Freelance Engineer (2017/08~)
   * Project using Rails 5.1
-    * Full remote work
+    * Full remote work(Full-Stack)
     * Main Development Period: (2017/08~2017/09)
     * About 3k lines(maximum performance: 3k lines/2weeks) with rspec.
     * I implemented all functions.
@@ -68,7 +69,7 @@
   * Project(2018/02~2018/06)
     * Details are protected by NDA.
   * work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
-    * Full remote work
+    * Full remote work(Backend and Infrastructure)
     * Rails + AWS
 
 ## Programming Experiences and Skills
