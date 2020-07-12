@@ -21,16 +21,17 @@
 * GitHub:  [atton](https://github.com/atton)
 * Twitter: [@\_atton](https://twitter.com/_atton)
 
-## Job
+## Current Job
 * Freelance Engineer
   * Main: Web backend
-  * Sub: Infrastructure
+  * Sub: Software, Infrastructure
 
 ## Pricing
 * ベース: 900,000~
-  * Web Application: バックエンド(Rails など)
-  * Infrastructure: サーバ環境構築, メンテナンス, 保守, CI/CD, など
-* 新サービス立ち上げ、新規事業立ち上げ、技術顧問: 応相談
+  * Web backend: 主に Rails (新規作成, 機能追加, テスト, リファクタリング, 速度改善, 等)
+  * Software: Serverless Application, 定期バッチ, PoC検証, ミドルウェア選定, 等必要に応じて
+  * Infrastructure: 環境構築, 構成変更, メンテナンス, 保守, CI/CD, 等
+* 新規事業の立ち上げや技術顧問: 応相談
 
 * お仕事の条件に関しては
   * 準委任契約
