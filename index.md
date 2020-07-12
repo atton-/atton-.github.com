@@ -16,12 +16,10 @@
 
 <img src="business_card.png" alt="めいし" width="300px">
 
-# Accounts
+## Accounts
 * Blog: [atton.blog](https://attonblog.blogspot.jp)
 * GitHub:  [atton](https://github.com/atton)
 * Twitter: [@\_atton](https://twitter.com/_atton)
-
-# Self Introduction
 
 ## Job
 * Freelance Engineer
@@ -99,32 +97,32 @@
   * GCP(Compute Engine, Google Kubernetes Engine)
   * heroku
   * sakura cloud
-* Virtualized environments: VirtualMachine(virutalbox, kvm, VMWare), Container(Docker Desktop for Mac, docker, docker-compose)
+* Virtualized environments:
+  * Container: Docker, Docker Compose, Docker Registry
+  * VirtualMachine: KVM, VirutalBox, VMWare
 * Applications: LDAP, BIND9, RADIUS, DHCP, libvirt
   * tutorial level + alpha
 
-## Tools which I usually use
-* macOS
-* Homebrew
+## Local Development Environment
+* macOS + Homebrew
 * Neovim
-* Git
-  * can (rebase -i, reflog, reset --hard, bisect, cherry-pick, blame, ...)
+* [Git](https://attonblog.blogspot.com/2014/12/git-summary-2014.html)
 * [tmux](https://github.com/atton/tmux)
   * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
-  * version [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
+  * version list: [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 * Docker Desktop for Mac
-  * My local sandbox or local development environments(alpine, centos, ...)
 * [My configurations](https://github.com/atton/dot_files)
 
-## LICENSES
+## Licenses
 * 普通自動車免許(2012)
 * Cisco CCENT(2009)
 * IPA 応用情報技術者(2009)
 * IPA 基本情報技術者(2009)
 * IPA 初級システムアドミニストレータ(2008)
 
+--------------------------------------------------
 
-# Slides
+## Events and Slides
 * 2017/07/24 : Laravel 紹介 [スライド](slides/laravel51/slide.html)
 * 2016/05/16 : akatsuki読み [スライド](slides/akatsuki-reading/slide.html)
 * 2016/09/30 : 新学科システム説明会(ユーザコンソール部分) [スライド](slides/syskan-new-system-presentation/slide.html)
@@ -138,10 +136,7 @@
 * 2013/04/29 : [新入生歓迎LT祭り 2013](https://atnd.org/events/38233) [スライド](slides/ie-lt-2013/slide.html)
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
-
-# Public Repositories in GitHub
-
-## OSS Contributions
+## OSS Contributions in GitHub
 * [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
   * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463) (not merged)
 * [tmux/tmux](https://github.com/tmux/tmux)
@@ -198,8 +193,9 @@
 * [atton/latex-make](https://hub.docker.com/r/atton/latex-make)
 * [atton/webpage-title](https://hub.docker.com/r/atton/webpage-title)
 
+--------------------------------------------------
 
-# Hobby
+## Hobby
 * Reading books
   * favorite authors: 伊藤計劃, 西尾維新, 入間人間, 野崎まど, 三秋縋 ...
 * Play game
