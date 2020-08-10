@@ -28,14 +28,14 @@
 
 ## Pricing
 * ベース: 900,000~
-  * Web backend: 主に Rails (新規作成, 機能追加, テスト, リファクタリング, 速度改善, 等)
+  * Web backend: 主に Ruby on Rails (新規作成, 機能追加, テスト, リファクタリング, 速度改善, 等)
   * Software: Serverless Application, 定期バッチ, PoC検証, ミドルウェア選定, 等必要に応じて
   * Infrastructure: 環境構築, 構成変更, メンテナンス, 保守, CI/CD, 等
 * 新規事業の立ち上げや技術顧問: 応相談
 
 * お仕事の条件に関しては
   * 準委任契約
-  * 完全リモートワーク(機材等の関係)
+  * 完全リモートワーク(新型コロナ対策や機材等の関係)
 * でお願いします。
 * また、作業の価格について、フリーランスは
   * 各種福利厚生・賞与・退職金・その他手当が無い
@@ -105,14 +105,12 @@
   * tutorial level + alpha
 
 ## Local Development Environment
-* macOS + Homebrew
-* Neovim
+* macOS + Homebrew + Neovim ([dot files](https://github.com/atton/dot_files))
+* Docker Desktop for Mac ([Docker Hub Account](https://hub.docker.com/u/atton))
 * [Git](https://attonblog.blogspot.com/2014/12/git-summary-2014.html)
 * [tmux](https://github.com/atton/tmux)
   * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
   * version list: [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
-* Docker Desktop for Mac
-* [My configurations](https://github.com/atton/dot_files)
 
 ## Licenses
 * 普通自動車免許(2012)
