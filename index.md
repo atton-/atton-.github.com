@@ -189,6 +189,7 @@
 * [zsh-notify](https://github.com/atton/zsh-notify)
 
 ## Public Docker Images
+* [atton/alpine-texlive-ja](https://hub.docker.com/r/atton/alpine-texlive-ja)
 * [atton/latex-make](https://hub.docker.com/r/atton/latex-make)
 * [atton/webpage-title](https://hub.docker.com/r/atton/webpage-title)
 
