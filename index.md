@@ -65,9 +65,10 @@
     * About 3k lines(maximum performance: 3k lines/2weeks) with rspec.
     * I implemented all functions.
     * Maintain Period: (2017/10~2017/11)
-  * Project(2018/02~2018/06)
-    * Details are protected by NDA.
-  * work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
+  * Auto-Drive Project(2018/02~2018/06)
+    * Details are protected by NDA, so listed public information.
+    * Part of [TOYOTA MOTOR CORPORATION Auto-Drive Project with NVIDIA.](https://response.jp/article/2019/03/19/320305.html)
+  * Work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
     * Full remote work(Backend and Infrastructure)
     * Rails + AWS
 
@@ -114,10 +115,10 @@
 
 ## Licenses
 * 普通自動車免許(2012)
-* Cisco CCENT(2009)
-* IPA 応用情報技術者(2009)
-* IPA 基本情報技術者(2009)
-* IPA 初級システムアドミニストレータ(2008)
+* [Cisco CCENT](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)(2009)
+* [IPA 応用情報技術者](https://www.jitec.ipa.go.jp/1_11seido/ap.html)(2009)
+* [IPA 基本情報技術者](https://www.jitec.ipa.go.jp/1_11seido/fe.html)(2009)
+* [IPA 初級システムアドミニストレータ](https://www.jitec.ipa.go.jp/1_11seido/h13/ad.html)(2008)
 
 --------------------------------------------------
 
@@ -136,6 +137,8 @@
 * 2012/08/13 : [Vim勉強会](http://atnd.org/events/30822) [スライド](slides/iedev_vim/iedev_vim.html)
 
 ## OSS Contributions in GitHub
+* [Paperist/docker-alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja)
+  * Using wget to reduce build time [#18](https://github.com/Paperist/docker-alpine-texlive-ja/pull/18) (merged)
 * [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
   * Add Karbowanec.app 1.1.9 [#41463](https://github.com/caskroom/homebrew-cask/pull/41463) (not merged)
 * [tmux/tmux](https://github.com/tmux/tmux)
