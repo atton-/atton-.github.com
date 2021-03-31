@@ -71,6 +71,9 @@
   * Work with [Carat Inc.](https://www.caratinc.jp) (2019/08~2020/05)
     * Full remote work(Backend and Infrastructure)
     * Rails + AWS
+  * Work with [Pixie Dust Technologies, Inc.](https://pixiedusttech.com) (2020/10~)
+    * Full remote work(Infrastructure and more)
+    * AWS
 
 ## Programming Experiences and Skills
 * Ruby(2012~)
@@ -95,7 +98,9 @@
 ## Infrastructure Skills
 * L1,L2,L3,knowledge: cisco(CCENT Level) 2008~
 * Cloud services:
-  * AWS(EC2, S3, Lambda, RDS, KMS, SES, Route53, CloudFormation, CloudWatch Logs, SAM)
+  * Amazon Web Services(AWS)
+    * Services: ACM, ALB, CloudFormation, CloudWatch, EC2, ECR, ECS, ELB, Fargate, IoT Core, KMS, Lambda, RDS, Route53, S3, SES, ...
+    * Tools: [CDK](https://github.com/aws/aws-cdk), [SAM](https://github.com/aws/serverless-application-model), [serverless](https://github.com/serverless/serverless)
   * GCP(Compute Engine, Google Kubernetes Engine)
   * heroku
   * sakura cloud
@@ -111,7 +116,7 @@
 * [Git](https://attonblog.blogspot.com/2014/12/git-summary-2014.html)
 * [tmux](https://github.com/atton/tmux)
   * using [border-ascii patched version](https://attonblog.blogspot.jp/2017/04/full-width-tmux.html).
-  * version list: [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
+  * version list: [3.1c](https://attonblog.blogspot.com/2020/11/tmux-31c.html), [3.1b](https://attonblog.blogspot.com/2020/05/tmux-31b.html), [3.0a](https://attonblog.blogspot.com/2019/12/tmux-30a-window-ascii-character.html), [2.9a](https://attonblog.blogspot.com/2019/08/tmux-29a.html), [2.8](https://attonblog.blogspot.com/2018/10/tmux-2-8.html), [2.7](https://attonblog.blogspot.com/2018/04/tmux-27.html), [2.6](https://attonblog.blogspot.com/2017/11/full-width-tmux-2-6.html), [2.5](https://attonblog.blogspot.com/2017/06/full-width-tmux-2-5.html), [2.4](https://attonblog.blogspot.com/2017/04/full-width-tmux-2-4.html), [2.3](https://attonblog.blogspot.com/2017/04/full-width-tmux.html)
 
 ## Licenses
 * 普通自動車免許(2012)
